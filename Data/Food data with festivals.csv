@@ -1,0 +1,1201 @@
+order_id,Date,Item Name,Category,Price,Quantity,Amount Transacted (?),Transaction Type,Gender,Time of Sale,Festival Name
+1,07-01-2023,Veg Pulao,Fastfood,12,1,12,Cash,Female,Afternoon,None
+2,23-01-2023,Paneer Butter Masala,Fastfood,62,3,186,Online,Male,Afternoon,None
+3,08-01-2023,Rajma Chawal,Fastfood,223,2,446,Cash,Male,Afternoon,None
+4,29-01-2023,Upma,Fastfood,299,2,598,Online,Male,Morning,None
+5,06-01-2023,Chapati,Fastfood,36,1,36,Cash,Male,Afternoon,None
+6,30-01-2023,Dhokla,Fastfood,135,3,405,Online,Female,Evening,None
+7,02-01-2023,Chai,Beverage,53,1,53,Cash,Male,Morning,None
+8,07-01-2023,Dhokla,Fastfood,135,2,270,Cash,Male,Evening,None
+9,21-01-2023,Aloo Puri,Fastfood,221,3,663,Cash,Female,Morning,None
+10,18-01-2023,Dal Tadka,Fastfood,240,5,1200,Cash,Male,Afternoon,None
+11,02-01-2023,Biryani,Fastfood,68,1,68,Cash,Female,Afternoon,None
+12,26-01-2023,Gulab Jamun,Fastfood,36,2,72,Cash,Female,Morning,Republic Day
+13,13-01-2023,Biryani,Fastfood,68,2,136,Online,Female,Afternoon,None
+14,11-01-2023,Fried Rice,Fastfood,281,2,562,Cash,Female,Night,None
+15,13-01-2023,Chai,Beverage,53,5,265,Cash,Female,Morning,None
+16,16-01-2023,Aloo Puri,Fastfood,221,4,884,Online,Female,Morning,None
+17,06-01-2023,Dal Tadka,Fastfood,240,5,1200,Cash,Female,Afternoon,None
+18,17-01-2023,Butter Chicken,Fastfood,247,5,1235,Cash,Male,Night,None
+19,17-01-2023,Chapati,Fastfood,36,5,180,Online,Male,Afternoon,None
+20,05-01-2023,Biryani,Fastfood,68,2,136,Online,Female,Afternoon,None
+21,11-01-2023,Idli,Fastfood,20,4,80,Online,Male,Morning,None
+22,29-01-2023,Veg Pulao,Fastfood,12,4,48,Online,Female,Afternoon,None
+23,20-01-2023,Paratha,Fastfood,176,3,528,Cash,Male,Morning,None
+24,28-01-2023,Paratha,Fastfood,176,4,704,Cash,Female,Morning,None
+25,08-01-2023,Chapati,Fastfood,36,3,108,Online,Male,Afternoon,None
+26,19-01-2023,Rajma Chawal,Fastfood,223,2,446,Online,Male,Afternoon,None
+27,17-01-2023,Biryani,Fastfood,68,5,340,Cash,Male,Afternoon,None
+28,18-01-2023,Chai,Beverage,53,1,53,Online,Female,Evening,None
+29,22-01-2023,Poha,Fastfood,121,4,484,Online,Female,Morning,None
+30,10-01-2023,Aloo Puri,Fastfood,221,1,221,Online,Female,Morning,None
+31,17-01-2023,Upma,Fastfood,299,4,1196,Online,Female,Morning,None
+32,23-01-2023,Dal Tadka,Fastfood,240,3,720,Online,Female,Afternoon,None
+33,18-01-2023,Naan,Fastfood,115,4,460,Cash,Male,Night,None
+34,26-01-2023,Jalebi,Fastfood,186,2,372,Online,Female,Evening,Republic Day
+35,16-01-2023,Naan,Fastfood,115,1,115,Cash,Male,Night,None
+36,20-01-2023,Butter Chicken,Fastfood,247,4,988,Cash,Male,Night,None
+37,28-01-2023,Masala Dosa,Fastfood,205,1,205,Cash,Male,Night,None
+38,29-01-2023,Chilli Paneer,Fastfood,193,5,965,Online,Male,Night,None
+39,22-01-2023,Idli,Fastfood,20,3,60,Cash,Female,Morning,None
+40,04-01-2023,Naan,Fastfood,115,4,460,Cash,Male,Night,None
+41,11-01-2023,Rajma Chawal,Fastfood,223,3,669,Cash,Male,Afternoon,None
+42,28-01-2023,Rajma Chawal,Fastfood,223,5,1115,Cash,Female,Afternoon,None
+43,31-01-2023,Rajma Chawal,Fastfood,223,5,1115,Cash,Female,Afternoon,None
+44,07-01-2023,Fried Rice,Fastfood,281,2,562,Online,Male,Night,None
+45,18-01-2023,Masala Dosa,Fastfood,205,2,410,Online,Male,Night,None
+46,14-01-2023,Puran Poli,Fastfood,257,3,771,Cash,Male,Night,Makar Sankranti
+47,27-01-2023,Veg Pulao,Fastfood,12,1,12,Online,Male,Afternoon,None
+48,09-01-2023,Butter Chicken,Fastfood,247,4,988,Online,Male,Night,None
+49,31-01-2023,Butter Chicken,Fastfood,247,2,494,Online,Female,Night,None
+50,31-01-2023,Pakoda,Fastfood,63,2,126,Online,Male,Evening,None
+51,10-01-2023,Paneer Butter Masala,Fastfood,62,4,248,Cash,Female,Afternoon,None
+52,23-01-2023,Fried Rice,Fastfood,281,2,562,Online,Male,Night,None
+53,22-01-2023,Rajma Chawal,Fastfood,223,2,446,Cash,Female,Afternoon,None
+54,18-01-2023,Masala Dosa,Fastfood,205,4,820,Cash,Female,Night,None
+55,24-01-2023,Pav Bhaji,Fastfood,101,1,101,Online,Female,Evening,None
+56,25-01-2023,Naan,Fastfood,115,5,575,Cash,Female,Night,None
+57,24-01-2023,Momos,Fastfood,106,5,530,Online,Male,Evening,None
+58,20-01-2023,Rajma Chawal,Fastfood,223,4,892,Online,Male,Afternoon,None
+59,24-01-2023,Momos,Fastfood,106,2,212,Cash,Female,Evening,None
+60,20-01-2023,Upma,Fastfood,299,4,1196,Cash,Female,Morning,None
+61,06-01-2023,Masala Dosa,Fastfood,205,3,615,Cash,Male,Night,None
+62,04-01-2023,Samosa,Fastfood,154,2,308,Cash,Female,Evening,None
+63,15-01-2023,Veg Pulao,Fastfood,12,5,60,Online,Male,Afternoon,None
+64,03-01-2023,Hakka Noodles,Fastfood,229,3,687,Cash,Female,Night,None
+65,20-01-2023,Chilli Paneer,Fastfood,193,4,772,Online,Female,Night,None
+66,14-01-2023,Puran Poli,Fastfood,257,2,514,Online,Female,Night,Makar Sankranti
+67,02-01-2023,Biryani,Fastfood,68,4,272,Cash,Male,Afternoon,None
+68,27-01-2023,Biryani,Fastfood,68,1,68,Cash,Male,Afternoon,None
+69,09-01-2023,Naan,Fastfood,115,2,230,Cash,Male,Night,None
+70,20-01-2023,Masala Dosa,Fastfood,205,5,1025,Online,Female,Night,None
+71,02-01-2023,Momos,Fastfood,106,4,424,Cash,Male,Evening,None
+72,16-01-2023,Chai,Beverage,53,2,106,Cash,Female,Evening,None
+73,25-01-2023,Upma,Fastfood,299,4,1196,Online,Male,Morning,None
+74,25-01-2023,Pakoda,Fastfood,63,1,63,Cash,Female,Evening,None
+75,25-01-2023,Butter Chicken,Fastfood,247,2,494,Online,Female,Night,None
+76,12-01-2023,Poha,Fastfood,121,2,242,Online,Male,Morning,None
+77,02-01-2023,Naan,Fastfood,115,4,460,Online,Male,Night,None
+78,09-01-2023,Poha,Fastfood,121,3,363,Cash,Male,Morning,None
+79,16-01-2023,Chai,Beverage,53,1,53,Online,Female,Morning,None
+80,23-01-2023,Upma,Fastfood,299,2,598,Cash,Female,Morning,None
+81,22-01-2023,Butter Chicken,Fastfood,247,2,494,Cash,Male,Night,None
+82,20-01-2023,Dhokla,Fastfood,135,5,675,Online,Male,Evening,None
+83,23-01-2023,Paratha,Fastfood,176,2,352,Cash,Male,Morning,None
+84,29-01-2023,Pakoda,Fastfood,63,2,126,Online,Female,Evening,None
+85,10-01-2023,Chai,Beverage,53,2,106,Online,Male,Evening,None
+86,18-01-2023,Samosa,Fastfood,154,3,462,Online,Female,Evening,None
+87,17-01-2023,Chai,Beverage,53,3,159,Cash,Male,Morning,None
+88,23-01-2023,Hakka Noodles,Fastfood,229,3,687,Cash,Female,Night,None
+89,09-01-2023,Pav Bhaji,Fastfood,101,5,505,Cash,Male,Evening,None
+90,27-01-2023,Chilli Paneer,Fastfood,193,1,193,Online,Female,Night,None
+91,21-01-2023,Paratha,Fastfood,176,5,880,Cash,Male,Morning,None
+92,11-01-2023,Aloo Puri,Fastfood,221,2,442,Online,Male,Morning,None
+93,22-01-2023,Momos,Fastfood,106,4,424,Cash,Female,Evening,None
+94,15-01-2023,Samosa,Fastfood,154,5,770,Online,Female,Evening,None
+95,16-01-2023,Momos,Fastfood,106,4,424,Cash,Male,Evening,None
+96,18-01-2023,Butter Chicken,Fastfood,247,3,741,Online,Female,Night,None
+97,23-01-2023,Hakka Noodles,Fastfood,229,4,916,Cash,Female,Night,None
+98,26-01-2023,Gulab Jamun,Fastfood,36,5,180,Online,Female,Night,Republic Day
+99,05-01-2023,Paratha,Fastfood,176,4,704,Cash,Male,Morning,None
+100,13-01-2023,Dal Tadka,Fastfood,240,3,720,Cash,Male,Afternoon,None
+101,26-02-2023,Bhel Puri,Fastfood,83,3,249,Online,Male,Evening,None
+102,20-02-2023,Poha,Fastfood,25,1,25,Online,Female,Morning,None
+103,04-02-2023,Gulab Jamun,Fastfood,96,4,384,Online,Male,Night,None
+104,19-02-2023,Kachori,Fastfood,40,1,40,Cash,Male,Afternoon,Chhatrapati Shivaji Maharaj Jayanti
+105,21-02-2023,Brownies,Fastfood,160,5,800,Cash,Female,Evening,Valentine's Day
+106,08-02-2023,Idli,Fastfood,74,1,74,Online,Male,Morning,None
+107,07-02-2023,Faral Thali,Fastfood,100,4,400,Cash,Female,Afternoon,Mahashivratri
+108,15-02-2023,Sabudana Khichdi,Fastfood,24,4,96,Online,Male,Morning,Mahashivratri
+109,08-02-2023,Vada Pav,Fastfood,33,4,132,Cash,Female,Afternoon,None
+110,19-02-2023,Filter Coffee,Beverage,40,1,40,Online,Male,Morning,Chhatrapati Shivaji Maharaj Jayanti
+111,16-02-2023,Butter Naan,Fastfood,133,4,532,Online,Female,Night,None
+112,10-02-2023,Kulfi,Fastfood,109,4,436,Cash,Female,Night,None
+113,01-02-2023,Faral Thali,Fastfood,165,4,660,Online,Male,Afternoon,Mahashivratri
+114,22-02-2023,Idli,Fastfood,130,5,650,Online,Female,Morning,None
+115,02-02-2023,Filter Coffee,Beverage,136,3,408,Online,Male,Morning,None
+116,08-02-2023,Sabudana Khichdi,Fastfood,128,2,256,Cash,Female,Morning,Mahashivratri
+117,04-02-2023,Filter Coffee,Beverage,193,4,772,Online,Female,Morning,None
+118,26-02-2023,Vada Pav,Fastfood,29,5,145,Online,Female,Afternoon,None
+119,23-02-2023,Pav Bhaji,Fastfood,46,5,230,Online,Female,Night,None
+120,18-02-2023,Chole Bhature,Fastfood,142,3,426,Online,Male,Morning,Mahashivratri
+121,12-02-2023,Sabudana Wada,Fastfood,111,3,333,Cash,Female,Morning,Mahashivratri
+122,09-02-2023,Sabudana Khichdi,Fastfood,134,2,268,Cash,Female,Morning,Mahashivratri
+123,03-02-2023,Bhel Puri,Fastfood,17,3,51,Online,Female,Evening,None
+124,04-02-2023,Lassi,Beverage,126,5,630,Online,Female,Afternoon,None
+125,01-02-2023,Puranpoli,Fastfood,51,4,204,Cash,Female,Afternoon,Chhatrapati Shivaji Maharaj Jayanti
+126,28-02-2023,Nimbu Pani,Beverage,188,1,188,Online,Male,Afternoon,None
+127,20-02-2023,Chole Bhature,Fastfood,58,4,232,Cash,Male,Morning,None
+128,19-02-2023,Gulab Jamun,Fastfood,178,4,712,Cash,Male,Night,Chhatrapati Shivaji Maharaj Jayanti
+129,03-02-2023,Sabudana Khichdi,Fastfood,11,4,44,Cash,Female,Morning,Mahashivratri
+130,02-02-2023,Samosa,Fastfood,195,1,195,Online,Female,Evening,None
+131,03-02-2023,Tea,Beverage,67,4,268,Cash,Male,Evening,None
+132,20-02-2023,Sabudana Khichdi,Fastfood,47,1,47,Online,Female,Morning,Mahashivratri
+133,16-02-2023,Butter Naan,Fastfood,11,1,11,Online,Male,Night,None
+134,21-02-2023,Jalebi,Fastfood,164,2,328,Cash,Male,Morning,None
+135,25-02-2023,Jalebi,Fastfood,104,4,416,Cash,Female,Morning,None
+136,23-02-2023,Filter Coffee,Beverage,47,4,188,Cash,Female,Morning,None
+137,27-02-2023,Chai,Beverage,61,4,244,Cash,Female,Morning,None
+138,23-02-2023,Filter Coffee,Beverage,148,2,296,Online,Male,Morning,None
+139,19-02-2023,Tea,Beverage,28,3,84,Cash,Female,Evening,Chhatrapati Shivaji Maharaj Jayanti
+140,06-02-2023,Puranpoli,Fastfood,198,1,198,Cash,Male,Afternoon,Chhatrapati Shivaji Maharaj Jayanti
+141,24-02-2023,Aloo Paratha,Fastfood,111,4,444,Cash,Female,Morning,None
+142,02-02-2023,Masala Dosa,Fastfood,62,4,248,Cash,Male,Morning,None
+143,07-02-2023,Paneer Tikka,Fastfood,144,3,432,Cash,Female,Night,None
+144,02-02-2023,Brownies,Fastfood,67,5,335,Online,Male,Evening,Valentine's Day
+145,05-02-2023,Kachori,Fastfood,50,2,100,Online,Male,Afternoon,None
+146,03-02-2023,Rasgulla,Fastfood,84,5,420,Online,Male,Night,None
+147,24-02-2023,Idli,Fastfood,140,5,700,Online,Male,Morning,None
+148,14-02-2023,Jalebi,Fastfood,26,2,52,Cash,Male,Morning,Valentine's Day
+149,24-02-2023,Butter Naan,Fastfood,189,2,378,Cash,Female,Night,None
+150,04-02-2023,Aloo Paratha,Fastfood,71,1,71,Cash,Male,Morning,None
+151,16-02-2023,Faral Thali,Fastfood,87,1,87,Cash,Male,Afternoon,Mahashivratri
+152,22-02-2023,Kachori,Fastfood,183,4,732,Online,Female,Afternoon,None
+153,16-02-2023,Kachori,Fastfood,71,4,284,Cash,Female,Afternoon,None
+154,04-02-2023,Kulfi,Fastfood,168,4,672,Online,Female,Night,None
+155,02-02-2023,Chai,Beverage,163,1,163,Online,Male,Morning,None
+156,20-02-2023,Paneer Tikka,Fastfood,89,3,267,Cash,Male,Night,None
+157,04-02-2023,Brownies,Fastfood,22,3,66,Cash,Female,Evening,Valentine's Day
+158,20-02-2023,Poha,Fastfood,51,3,153,Cash,Male,Morning,None
+159,19-02-2023,Brownies,Fastfood,189,4,756,Cash,Male,Evening,Valentine's Day
+160,18-02-2023,Rasgulla,Fastfood,138,1,138,Online,Male,Night,Mahashivratri
+161,12-02-2023,Pakoda,Fastfood,172,5,860,Online,Female,Evening,None
+162,26-02-2023,Brownies,Fastfood,83,2,166,Cash,Female,Evening,Valentine's Day
+163,04-02-2023,Bhel Puri,Fastfood,114,1,114,Cash,Male,Evening,None
+164,27-02-2023,Butter Naan,Fastfood,57,4,228,Cash,Female,Night,None
+165,26-02-2023,Paneer Tikka,Fastfood,34,3,102,Online,Female,Night,None
+166,06-02-2023,Tea,Beverage,49,4,196,Cash,Female,Morning,None
+167,28-02-2023,Jalebi,Fastfood,33,3,99,Cash,Female,Morning,None
+168,18-02-2023,Gulab Jamun,Fastfood,190,1,190,Cash,Female,Night,Mahashivratri
+169,11-02-2023,Butter Naan,Fastfood,91,4,364,Online,Female,Night,None
+170,23-02-2023,Vada Pav,Fastfood,81,5,405,Cash,Female,Afternoon,None
+171,03-02-2023,Pav Bhaji,Fastfood,32,5,160,Online,Female,Night,None
+172,14-02-2023,Bhel Puri,Fastfood,44,1,44,Online,Female,Evening,Valentine's Day
+173,20-02-2023,Pakoda,Fastfood,177,5,885,Cash,Female,Evening,None
+174,01-02-2023,Thandai,Beverage,190,1,190,Online,Female,Night,None
+175,20-02-2023,Samosa,Fastfood,120,5,600,Cash,Female,Evening,None
+176,18-02-2023,Butter Naan,Fastfood,186,2,372,Cash,Female,Night,Mahashivratri
+177,04-02-2023,Paneer Tikka,Fastfood,46,3,138,Online,Female,Night,None
+178,04-02-2023,Chole Bhature,Fastfood,14,1,14,Online,Female,Morning,None
+179,09-02-2023,Idli,Fastfood,192,3,576,Online,Female,Morning,None
+180,03-02-2023,Filter Coffee,Beverage,180,2,360,Online,Male,Morning,None
+181,21-02-2023,Aloo Paratha,Fastfood,192,2,384,Online,Female,Morning,None
+182,21-02-2023,Tea,Beverage,168,2,336,Online,Female,Evening,None
+183,24-02-2023,Pav Bhaji,Fastfood,101,5,505,Cash,Female,Night,None
+184,12-02-2023,Rasgulla,Fastfood,152,5,760,Cash,Female,Night,None
+185,18-02-2023,Vada Pav,Fastfood,121,3,363,Online,Male,Afternoon,Mahashivratri
+186,03-02-2023,Nimbu Pani,Beverage,132,5,660,Cash,Female,Afternoon,None
+187,23-02-2023,Poha,Fastfood,89,2,178,Online,Female,Morning,None
+188,14-02-2023,Sabudana Khichdi,Fastfood,65,4,260,Cash,Female,Morning,Mahashivratri
+189,25-02-2023,Paneer Tikka,Fastfood,147,4,588,Online,Female,Night,None
+190,13-02-2023,Poha,Fastfood,37,5,185,Cash,Male,Morning,None
+191,05-02-2023,Faral Thali,Fastfood,39,3,117,Cash,Male,Afternoon,Mahashivratri
+192,16-02-2023,Sabudana Khichdi,Fastfood,146,4,584,Cash,Male,Morning,Mahashivratri
+193,12-02-2023,Bhel Puri,Fastfood,101,3,303,Cash,Male,Evening,None
+194,19-02-2023,Filter Coffee,Beverage,128,4,512,Online,Male,Morning,Chhatrapati Shivaji Maharaj Jayanti
+195,25-02-2023,Lassi,Beverage,182,1,182,Online,Female,Afternoon,None
+196,01-02-2023,Paneer Tikka,Fastfood,61,2,122,Cash,Female,Night,None
+197,24-02-2023,Tea,Beverage,102,4,408,Cash,Female,Evening,None
+198,03-02-2023,Sabudana Khichdi,Fastfood,189,3,567,Online,Male,Morning,Mahashivratri
+199,08-02-2023,Kachori,Fastfood,130,2,260,Online,Female,Afternoon,None
+200,08-02-2023,Puranpoli,Fastfood,135,3,405,Cash,Male,Afternoon,Chhatrapati Shivaji Maharaj Jayanti
+201,03-03-2023,Masala Dosa,Fastfood,120,1,120,Cash,Male,Morning,None
+202,22-03-2023,Puran Poli,Fastfood,50,2,100,Online,Female,Evening,Gudi Padwa
+203,15-03-2023,Vada Pav,Fastfood,30,2,60,Cash,Male,Afternoon,None
+204,07-03-2023,Puran Poli,Fastfood,50,1,50,Online,Female,Evening,Holi
+205,25-03-2023,Samosa,Fastfood,20,3,60,Cash,Male,Evening,None
+206,10-03-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Morning,None
+207,28-03-2023,Filter Coffee,Beverage,30,1,30,Online,Male,Morning,None
+208,01-03-2023,Dosa,Fastfood,100,1,100,Cash,Female,Evening,None
+209,18-03-2023,Idli Sambhar,Fastfood,80,1,80,Online,Male,Morning,None
+210,31-03-2023,Pav Bhaji,Fastfood,120,1,120,Cash,Female,Evening,None
+211,02-03-2023,Chole Bhature,Fastfood,150,1,150,Online,Male,Afternoon,None
+212,21-03-2023,Samosa Chaat,Fastfood,80,2,160,Cash,Female,Evening,None
+213,14-03-2023,Dahi Puri,Fastfood,50,1,50,Online,Male,Afternoon,None
+214,06-03-2023,Veg Thali,Fastfood,150,1,150,Cash,Female,Evening,None
+215,24-03-2023,Kachori,Fastfood,30,2,60,Online,Male,Evening,None
+216,09-03-2023,Lassi,Beverage,40,1,40,Cash,Female,Afternoon,None
+217,27-03-2023,Butter Milk,Beverage,20,1,20,Online,Male,Afternoon,None
+218,12-03-2023,Uttapam,Fastfood,80,1,80,Cash,Female,Morning,None
+219,30-03-2023,Veg Thali,Fastfood,180,1,180,Online,Male,Afternoon,Ram Navami
+220,05-03-2023,Pani Puri,Fastfood,40,1,40,Cash,Female,Evening,None
+221,23-03-2023,Bhel Puri,Fastfood,60,2,120,Online,Male,Evening,None
+222,16-03-2023,Aloo Tikki,Fastfood,50,1,50,Cash,Female,Afternoon,None
+223,08-03-2023,Puran Poli,Fastfood,50,1,50,Online,Male,Evening,Holi
+224,26-03-2023,Dabeli,Fastfood,40,2,80,Cash,Female,Evening,None
+225,11-03-2023,Ginger Tea,Beverage,30,1,30,Online,Male,Morning,None
+226,29-03-2023,Lemon Tea,Beverage,25,1,25,Cash,Female,Morning,None
+227,03-03-2023,Upma,Fastfood,60,1,60,Online,Male,Morning,None
+228,22-03-2023,Puran Poli,Fastfood,50,2,100,Cash,Female,Evening,Gudi Padwa
+229,15-03-2023,Poha,Fastfood,50,1,50,Online,Male,Morning,None
+230,07-03-2023,Puran Poli,Fastfood,50,1,50,Cash,Female,Evening,Holi
+231,25-03-2023,Medu Vada,Fastfood,40,2,80,Online,Male,Morning,None
+232,10-03-2023,Coffee,Beverage,35,1,35,Cash,Female,Morning,None
+233,28-03-2023,Tea,Beverage,20,1,20,Online,Male,Morning,None
+234,01-03-2023,Paratha,Fastfood,60,1,60,Cash,Female,Morning,None
+235,18-03-2023,Sambar Vada,Fastfood,70,1,70,Online,Male,Afternoon,None
+236,31-03-2023,Misal Pav,Fastfood,100,1,100,Cash,Female,Afternoon,None
+237,02-03-2023,Sabudana Vada,Fastfood,60,1,60,Online,Male,Evening,None
+238,21-03-2023,Bread Pakora,Fastfood,50,2,100,Cash,Female,Evening,None
+239,14-03-2023,Aloo Paratha,Fastfood,80,1,80,Online,Male,Morning,None
+240,06-03-2023,Veg Pulao,Fastfood,120,1,120,Cash,Female,Afternoon,None
+241,24-03-2023,Onion Uttapam,Fastfood,90,1,90,Online,Male,Morning,None
+242,09-03-2023,Mango Lassi,Beverage,60,1,60,Cash,Female,Afternoon,None
+243,27-03-2023,Sweet Lassi,Beverage,50,1,50,Online,Male,Afternoon,None
+244,12-03-2023,Masala Uttapam,Fastfood,90,1,90,Cash,Female,Morning,None
+245,30-03-2023,Veg Thali,Fastfood,180,1,180,Online,Male,Afternoon,Ram Navami
+246,05-03-2023,Sevpuri,Fastfood,50,1,50,Cash,Female,Evening,None
+247,23-03-2023,Ragda Pattice,Fastfood,70,2,140,Online,Male,Evening,None
+248,16-03-2023,Dahi Vada,Fastfood,60,1,60,Cash,Female,Afternoon,None
+249,08-03-2023,Puran Poli,Fastfood,50,1,50,Online,Male,Evening,Holi
+250,26-03-2023,Vada Pav,Fastfood,30,2,60,Cash,Female,Evening,None
+251,11-03-2023,Masala Tea,Beverage,25,1,25,Online,Male,Morning,None
+252,29-03-2023,Green Tea,Beverage,30,1,30,Cash,Female,Morning,None
+253,03-03-2023,Idli Vada,Fastfood,70,1,70,Online,Male,Morning,None
+254,22-03-2023,Puran Poli,Fastfood,50,2,100,Cash,Female,Evening,Gudi Padwa
+255,15-03-2023,Sada Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+256,07-03-2023,Puran Poli,Fastfood,50,1,50,Cash,Female,Evening,Holi
+257,25-03-2023,Onion Pakoda,Fastfood,60,2,120,Online,Male,Evening,None
+258,10-03-2023,Cold Coffee,Beverage,50,1,50,Cash,Female,Afternoon,None
+259,28-03-2023,Hot Chocolate,Beverage,80,1,80,Online,Male,Afternoon,None
+260,01-03-2023,Aloo Puri,Fastfood,80,1,80,Cash,Female,Morning,None
+261,18-03-2023,Dal Makhani,Fastfood,150,1,150,Online,Male,Evening,None
+262,31-03-2023,Paneer Butter Masala,Fastfood,200,1,200,Cash,Female,Evening,None
+263,02-03-2023,Chicken Tikka Masala,Fastfood,300,1,300,Online,Male,Evening,None
+264,21-03-2023,Tandoori Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+265,14-03-2023,Mutton Rogan Josh,Fastfood,350,1,350,Online,Male,Evening,None
+266,06-03-2023,Fish Curry,Fastfood,200,1,200,Cash,Female,Evening,None
+267,24-03-2023,Biryani,Fastfood,250,1,250,Online,Male,Afternoon,None
+268,09-03-2023,Falooda,Beverage,100,1,100,Cash,Female,Afternoon,None
+269,27-03-2023,Kulfi,Fastfood,50,1,50,Online,Male,Afternoon,None
+270,12-03-2023,Gulab Jamun,Fastfood,80,1,80,Cash,Female,Evening,None
+271,30-03-2023,Veg Thali,Fastfood,180,1,180,Online,Male,Afternoon,Ram Navami
+272,05-03-2023,Jalebi,Fastfood,60,1,60,Cash,Female,Evening,None
+273,23-03-2023,Rasmalai,Fastfood,120,2,240,Online,Male,Evening,None
+274,16-03-2023,Gajar Ka Halwa,Fastfood,100,1,100,Cash,Female,Evening,None
+275,08-03-2023,Puran Poli,Fastfood,50,1,50,Online,Male,Evening,Holi
+276,26-03-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+277,11-03-2023,Chai,Beverage,20,1,20,Online,Male,Morning,None
+278,29-03-2023,Coffee,Beverage,30,1,30,Cash,Female,Morning,None
+279,03-03-2023,Dosa,Fastfood,100,1,100,Online,Male,Morning,None
+280,22-03-2023,Puran Poli,Fastfood,50,2,100,Cash,Female,Evening,Gudi Padwa
+281,15-03-2023,Idli Sambhar,Fastfood,80,1,80,Online,Male,Morning,None
+282,07-03-2023,Puran Poli,Fastfood,50,1,50,Cash,Female,Evening,Holi
+283,25-03-2023,Pav Bhaji,Fastfood,120,1,120,Online,Male,Evening,None
+284,10-03-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Morning,None
+285,28-03-2023,Filter Coffee,Beverage,30,1,30,Online,Male,Morning,None
+286,01-03-2023,Chole Bhature,Fastfood,150,1,150,Cash,Female,Afternoon,None
+287,18-03-2023,Samosa Chaat,Fastfood,80,2,160,Online,Male,Evening,None
+288,31-03-2023,Dahi Puri,Fastfood,50,1,50,Cash,Female,Afternoon,None
+289,02-03-2023,Veg Thali,Fastfood,150,1,150,Online,Male,Evening,None
+290,21-03-2023,Kachori,Fastfood,30,2,60,Cash,Female,Evening,None
+291,14-03-2023,Lassi,Beverage,40,1,40,Online,Male,Afternoon,None
+292,06-03-2023,Butter Milk,Beverage,20,1,20,Cash,Female,Afternoon,None
+293,24-03-2023,Uttapam,Fastfood,80,1,80,Online,Male,Morning,None
+294,30-03-2023,Veg Thali,Fastfood,180,1,180,Cash,Female,Afternoon,Ram Navami
+295,05-03-2023,Pani Puri,Fastfood,40,1,40,Online,Male,Evening,None
+296,23-03-2023,Bhel Puri,Fastfood,60,2,120,Cash,Female,Evening,None
+297,16-03-2023,Aloo Tikki,Fastfood,50,1,50,Online,Male,Afternoon,None
+298,08-03-2023,Puran Poli,Fastfood,50,1,50,Cash,Female,Evening,Holi
+299,26-03-2023,Dabeli,Fastfood,40,2,80,Online,Male,Evening,None
+300,11-03-2023,Ginger Tea,Beverage,30,1,30,Cash,Female,Morning,None
+301,04-04-2023,Jain Thali,Fastfood,150,1,150,Online,Male,Afternoon,Mahavir Jayanti
+302,25-04-2023,Butter Milk,Beverage,20,1,20,Cash,Female,Afternoon,None
+303,12-04-2023,Masala Dosa,Fastfood,120,1,120,Online,Male,Morning,None
+304,29-04-2023,Lemon Tea,Beverage,25,1,25,Cash,Female,Morning,None
+305,16-04-2023,Aloo Tikki,Fastfood,50,1,50,Online,Male,Afternoon,None
+306,09-04-2023,Easter Egg,Fastfood,30,2,60,Cash,Female,Evening,Easter
+307,27-04-2023,Sweet Lassi,Beverage,50,1,50,Online,Male,Afternoon,None
+308,14-04-2023,Aloo Paratha,Fastfood,80,1,80,Cash,Female,Morning,None
+309,07-04-2023,Bitter Gourd Juice,Beverage,35,1,35,Online,Male,Morning,Good Friday
+310,25-04-2023,Vada Pav,Fastfood,30,2,60,Cash,Female,Evening,None
+311,12-04-2023,Masala Chai,Beverage,20,2,40,Online,Male,Morning,None
+312,29-04-2023,Filter Coffee,Beverage,30,1,30,Cash,Female,Morning,None
+313,16-04-2023,Dahi Vada,Fastfood,60,1,60,Online,Male,Afternoon,None
+314,09-04-2023,Easter Egg,Fastfood,30,2,60,Cash,Female,Evening,Easter
+315,27-04-2023,Mango Lassi,Beverage,60,1,60,Online,Male,Afternoon,None
+316,14-04-2023,Veg Pulao,Fastfood,120,1,120,Cash,Female,Afternoon,None
+317,07-04-2023,Bitter Gourd Juice,Beverage,35,1,35,Online,Male,Morning,Good Friday
+318,25-04-2023,Samosa,Fastfood,20,3,60,Cash,Female,Evening,None
+319,12-04-2023,Idli Sambhar,Fastfood,80,1,80,Online,Male,Morning,None
+320,29-04-2023,Tea,Beverage,20,1,20,Cash,Female,Morning,None
+321,16-04-2023,Aloo Tikki,Fastfood,50,1,50,Online,Male,Afternoon,None
+322,09-04-2023,Easter Egg,Fastfood,30,2,60,Cash,Female,Evening,Easter
+323,27-04-2023,Bhel Puri,Fastfood,60,2,120,Online,Male,Evening,None
+324,14-04-2023,Onion Uttapam,Fastfood,90,1,90,Cash,Female,Morning,None
+325,07-04-2023,Bitter Gourd Juice,Beverage,35,1,35,Online,Male,Morning,Good Friday
+326,25-04-2023,Dabeli,Fastfood,40,2,80,Cash,Female,Evening,None
+327,12-04-2023,Masala Uttapam,Fastfood,90,1,90,Online,Male,Morning,None
+328,29-04-2023,Green Tea,Beverage,30,1,30,Cash,Female,Morning,None
+329,16-04-2023,Dahi Vada,Fastfood,60,1,60,Online,Male,Afternoon,None
+330,09-04-2023,Easter Egg,Fastfood,30,2,60,Cash,Female,Evening,Easter
+331,27-04-2023,Sevpuri,Fastfood,50,1,50,Online,Male,Evening,None
+332,14-04-2023,Masala Dosa,Fastfood,120,1,120,Cash,Female,Morning,None
+333,07-04-2023,Bitter Gourd Juice,Beverage,35,1,35,Online,Male,Morning,Good Friday
+334,25-04-2023,Vada Pav,Fastfood,30,2,60,Cash,Female,Evening,None
+335,12-04-2023,Masala Chai,Beverage,20,2,40,Online,Male,Morning,None
+336,29-04-2023,Filter Coffee,Beverage,30,1,30,Cash,Female,Morning,None
+337,16-04-2023,Aloo Tikki,Fastfood,50,1,50,Online,Male,Afternoon,None
+338,09-04-2023,Easter Egg,Fastfood,30,2,60,Cash,Female,Evening,Easter
+339,27-04-2023,Bhel Puri,Fastfood,60,2,120,Online,Male,Evening,None
+340,14-04-2023,Onion Uttapam,Fastfood,90,1,90,Cash,Female,Morning,None
+341,07-04-2023,Bitter Gourd Juice,Beverage,35,1,35,Online,Male,Morning,Good Friday
+342,25-04-2023,Dabeli,Fastfood,40,2,80,Cash,Female,Evening,None
+343,12-04-2023,Masala Uttapam,Fastfood,90,1,90,Online,Male,Morning,None
+344,29-04-2023,Green Tea,Beverage,30,1,30,Cash,Female,Morning,None
+345,16-04-2023,Dahi Vada,Fastfood,60,1,60,Online,Male,Afternoon,None
+346,09-04-2023,Easter Egg,Fastfood,30,2,60,Cash,Female,Evening,Easter
+347,27-04-2023,Sevpuri,Fastfood,50,1,50,Online,Male,Evening,None
+348,14-04-2023,Masala Dosa,Fastfood,120,1,120,Cash,Female,Morning,None
+349,07-04-2023,Bitter Gourd Juice,Beverage,35,1,35,Online,Male,Morning,Good Friday
+350,25-04-2023,Vada Pav,Fastfood,30,2,60,Cash,Female,Evening,None
+351,12-04-2023,Masala Chai,Beverage,20,2,40,Online,Male,Morning,None
+352,29-04-2023,Filter Coffee,Beverage,30,1,30,Cash,Female,Morning,None
+353,16-04-2023,Aloo Tikki,Fastfood,50,1,50,Online,Male,Afternoon,None
+354,09-04-2023,Easter Egg,Fastfood,30,2,60,Cash,Female,Evening,Easter
+355,27-04-2023,Bhel Puri,Fastfood,60,2,120,Online,Male,Evening,None
+356,14-04-2023,Onion Uttapam,Fastfood,90,1,90,Cash,Female,Morning,None
+357,07-04-2023,Bitter Gourd Juice,Beverage,35,1,35,Online,Male,Morning,Good Friday
+358,25-04-2023,Dabeli,Fastfood,40,2,80,Cash,Female,Evening,None
+359,12-04-2023,Masala Uttapam,Fastfood,90,1,90,Online,Male,Morning,None
+360,29-04-2023,Green Tea,Beverage,30,1,30,Cash,Female,Morning,None
+361,16-04-2023,Dahi Vada,Fastfood,60,1,60,Online,Male,Afternoon,None
+362,09-04-2023,Easter Egg,Fastfood,30,2,60,Cash,Female,Evening,Easter
+363,27-04-2023,Sevpuri,Fastfood,50,1,50,Online,Male,Evening,None
+364,21-04-2023,Tandoori Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+365,14-04-2023,Mutton Rogan Josh,Fastfood,350,1,350,Online,Male,Evening,None
+366,06-04-2023,Fish Curry,Fastfood,200,1,200,Cash,Female,Evening,None
+367,24-04-2023,Biryani,Fastfood,250,1,250,Online,Male,Afternoon,None
+368,09-04-2023,Falooda,Beverage,100,1,100,Cash,Female,Afternoon,None
+369,27-04-2023,Kulfi,Fastfood,50,1,50,Online,Male,Afternoon,None
+370,12-04-2023,Gulab Jamun,Fastfood,80,1,80,Cash,Female,Evening,None
+371,30-04-2023,Veg Thali,Fastfood,180,1,180,Online,Male,Afternoon,None
+372,05-04-2023,Jalebi,Fastfood,60,1,60,Cash,Female,Evening,None
+373,23-04-2023,Rasmalai,Fastfood,120,2,240,Online,Male,Evening,None
+374,16-04-2023,Gajar Ka Halwa,Fastfood,100,1,100,Cash,Female,Evening,None
+375,09-04-2023,Puran Poli,Fastfood,50,1,50,Online,Male,Evening,None
+376,27-04-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+377,14-04-2023,Chai,Beverage,20,1,20,Online,Male,Morning,None
+378,30-04-2023,Coffee,Beverage,30,1,30,Cash,Female,Morning,None
+379,05-04-2023,Dosa,Fastfood,100,1,100,Online,Male,Morning,None
+380,23-04-2023,Puran Poli,Fastfood,50,2,100,Cash,Female,Evening,None
+381,16-04-2023,Idli Sambhar,Fastfood,80,1,80,Online,Male,Morning,None
+382,09-04-2023,Puran Poli,Fastfood,50,1,50,Cash,Female,Evening,None
+383,27-04-2023,Pav Bhaji,Fastfood,120,1,120,Online,Male,Evening,None
+384,14-04-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Morning,None
+385,30-04-2023,Filter Coffee,Beverage,30,1,30,Online,Male,Morning,None
+386,05-04-2023,Chole Bhature,Fastfood,150,1,150,Cash,Female,Afternoon,None
+387,23-04-2023,Samosa Chaat,Fastfood,80,2,160,Online,Male,Evening,None
+388,30-04-2023,Dahi Puri,Fastfood,50,1,50,Cash,Female,Afternoon,None
+389,05-04-2023,Veg Thali,Fastfood,150,1,150,Online,Male,Evening,None
+390,23-04-2023,Kachori,Fastfood,30,2,60,Cash,Female,Evening,None
+391,16-04-2023,Lassi,Beverage,40,1,40,Online,Male,Afternoon,None
+392,09-04-2023,Butter Milk,Beverage,20,1,20,Cash,Female,Afternoon,None
+393,27-04-2023,Uttapam,Fastfood,80,1,80,Online,Male,Morning,None
+394,30-04-2023,Veg Thali,Fastfood,180,1,180,Cash,Female,Afternoon,None
+395,05-04-2023,Pani Puri,Fastfood,40,1,40,Online,Male,Evening,None
+396,23-04-2023,Bhel Puri,Fastfood,60,2,120,Cash,Female,Evening,None
+397,16-04-2023,Aloo Tikki,Fastfood,50,1,50,Online,Male,Afternoon,None
+398,09-04-2023,Puran Poli,Fastfood,50,1,50,Cash,Female,Evening,None
+399,27-04-2023,Dabeli,Fastfood,40,2,80,Online,Male,Evening,None
+400,14-04-2023,Ginger Tea,Beverage,30,1,30,Cash,Female,Morning,None
+401,02-05-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+402,15-05-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+403,05-05-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,Buddha Purnima
+404,28-05-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Morning,None
+405,10-05-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+406,25-05-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+407,07-05-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+408,18-05-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+409,01-05-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+410,22-05-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+411,12-05-2023,Pav Bhaji,Fastfood,100,1,100,Online,Male,Evening,None
+412,29-05-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+413,03-05-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+414,17-05-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+415,20-05-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+416,08-05-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+417,26-05-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+418,04-05-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+419,19-05-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+420,05-05-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,Buddha Purnima
+421,23-05-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+422,31-05-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+423,16-05-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+424,27-05-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+425,11-05-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+426,24-05-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+427,30-05-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+428,13-05-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+429,28-05-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+430,05-05-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,Buddha Purnima
+431,15-05-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+432,06-05-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+433,21-05-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+434,02-05-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+435,17-05-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+436,22-05-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+437,29-05-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+438,18-05-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+439,23-05-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+440,19-05-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+441,25-05-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+442,10-05-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+443,26-05-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+444,11-05-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+445,27-05-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+446,12-05-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+447,28-05-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+448,13-05-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+449,29-05-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+450,14-05-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+451,30-05-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+452,15-05-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+453,31-05-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+454,16-05-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+455,01-05-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+456,17-05-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+457,02-05-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+458,18-05-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+459,03-05-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+460,05-05-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,Buddha Purnima
+461,04-05-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+462,20-05-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+463,05-05-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+464,21-05-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+465,06-05-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+466,22-05-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+467,07-05-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+468,23-05-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+469,08-05-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+470,05-05-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,Buddha Purnima
+471,09-05-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+472,25-05-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+473,10-05-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+474,26-05-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+475,11-05-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+476,27-05-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+477,12-05-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+478,28-05-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+479,13-05-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+480,29-05-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+481,14-05-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+482,30-05-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+483,15-05-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+484,31-05-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+485,16-05-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+486,01-05-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+487,02-05-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+488,03-05-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+489,04-05-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+490,05-05-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,Buddha Purnima
+491,06-05-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+492,07-05-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+493,08-05-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+494,09-05-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+495,10-05-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+496,11-05-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+497,12-05-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+498,13-05-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+499,14-05-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+500,15-05-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+501,01-06-2023,Chai,Beverage,30,2,60,Cash,Male,Morning,None
+502,01-06-2023,Aloo Paratha,Fastfood,50,1,50,Online,Female,Morning,None
+503,02-06-2023,Dosa,Fastfood,80,1,80,Cash,Male,Morning,None
+504,02-06-2023,Mango Lassi,Beverage,100,1,100,Online,Female,Afternoon,None
+505,03-06-2023,Paneer Tikka,Fastfood,120,2,240,Cash,Male,Evening,None
+506,04-06-2023,Chole Bhature,Fastfood,90,2,180,Online,Female,Afternoon,None
+507,05-06-2023,Cold Drink (Pepsi),Beverage,50,1,50,Cash,Male,Afternoon,None
+508,05-06-2023,Ice Cream (Vanilla),Beverage,60,1,60,Online,Female,Evening,None
+509,06-06-2023,Pani Puri,Fastfood,40,2,80,Cash,Male,Evening,None
+510,06-06-2023,Iced Tea,Beverage,70,1,70,Cash,Female,Afternoon,None
+511,07-06-2023,Biryani,Fastfood,150,1,150,Online,Male,Evening,None
+512,08-06-2023,Chai,Beverage,30,1,30,Cash,Female,Morning,None
+513,08-06-2023,Butter Chicken,Fastfood,200,1,200,Online,Male,Evening,None
+514,09-06-2023,Idli,Fastfood,50,1,50,Cash,Female,Morning,None
+515,10-06-2023,Cold Drink (Sprite),Beverage,50,2,100,Cash,Male,Afternoon,None
+516,10-06-2023,Chicken Thali,Fastfood,250,1,250,Online,Female,Evening,None
+517,11-06-2023,Vada Pav,Fastfood,40,3,120,Cash,Male,Morning,None
+518,12-06-2023,Dhokla,Fastfood,60,2,120,Online,Female,Morning,None
+519,12-06-2023,Cold Drink (Coke),Beverage,55,1,55,Cash,Male,Afternoon,None
+520,13-06-2023,Samosa,Fastfood,30,4,120,Online,Female,Evening,None
+521,14-06-2023,Ice Cream (Chocolate),Beverage,80,1,80,Cash,Male,Evening,None
+522,14-06-2023,Chicken Biryani,Fastfood,180,1,180,Cash,Female,Evening,None
+523,15-06-2023,Aloo Tikki,Fastfood,40,2,80,Online,Male,Afternoon,None
+524,16-06-2023,Cold Drink (Fanta),Beverage,50,1,50,Cash,Female,Afternoon,None
+525,17-06-2023,Kathi Roll,Fastfood,120,1,120,Cash,Male,Evening,None
+526,18-06-2023,Chicken Shawarma,Fastfood,150,2,300,Online,Female,Evening,None
+527,19-06-2023,Chai,Beverage,30,1,30,Cash,Male,Morning,None
+528,19-06-2023,Ice Cream (Strawberry),Beverage,90,1,90,Cash,Female,Evening,None
+529,20-06-2023,Pav Bhaji,Fastfood,60,1,60,Online,Male,Evening,None
+530,21-06-2023,Chicken Sandwich,Fastfood,130,2,260,Cash,Female,Afternoon,None
+531,22-06-2023,Pesarattu,Fastfood,70,2,140,Cash,Male,Morning,None
+532,23-06-2023,Cold Drink (Thums Up),Beverage,50,1,50,Online,Female,Afternoon,None
+533,24-06-2023,Pani Puri,Fastfood,40,3,120,Cash,Male,Evening,None
+534,25-06-2023,Ice Cream (Butterscotch),Beverage,85,2,170,Online,Female,Evening,None
+535,26-06-2023,Chole Bhature,Fastfood,90,2,180,Cash,Male,Afternoon,None
+536,27-06-2023,Chicken Biryani,Fastfood,200,1,200,Online,Female,Evening,None
+537,28-06-2023,Chai,Beverage,30,1,30,Cash,Male,Morning,None
+538,28-06-2023,Tandoori Chicken,Fastfood,180,1,180,Online,Female,Evening,None
+539,29-06-2023,Chicken Thali,Fastfood,250,1,250,Cash,Male,Evening,Bakrid
+540,29-06-2023,Meat Thali,Fastfood,300,1,300,Online,Female,Evening,Bakrid
+541,30-06-2023,Dosa,Fastfood,80,2,160,Cash,Male,Morning,None
+542,30-06-2023,Cold Drink (Peach),Beverage,55,1,55,Online,Female,Afternoon,None
+543,30-06-2023,Pani Puri,Fastfood,40,1,40,Cash,Male,Evening,None
+544,06-06-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+545,21-06-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+546,29-06-2023,Meat Thali,Fastfood,300,1,300,Cash,Male,Evening,Bakrid
+547,12-06-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Morning,None
+548,03-06-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+549,26-06-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+550,18-06-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+551,08-06-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+552,01-06-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+553,15-06-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+554,24-06-2023,Pav Bhaji,Fastfood,100,1,100,Online,Male,Evening,None
+555,13-06-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+556,04-06-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+557,19-06-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+558,09-06-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+559,27-06-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+560,16-06-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+561,05-06-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+562,22-06-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+563,10-06-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+564,28-06-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+565,14-06-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+566,05-06-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+567,20-06-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+568,11-06-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+569,29-06-2023,Chicken Thali,Fastfood,250,1,250,Cash,Male,Evening,Bakrid
+570,17-06-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+571,06-06-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+572,23-06-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+573,12-06-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+574,30-06-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+575,15-06-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+576,06-06-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+577,21-06-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+578,13-06-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+579,30-06-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+580,18-06-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+581,07-06-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+582,24-06-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+583,14-06-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+584,01-06-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+585,16-06-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+586,02-06-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+587,22-06-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+588,15-06-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+589,03-06-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+590,19-06-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+591,08-06-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+592,25-06-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+593,16-06-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+594,04-06-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+595,20-06-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+596,05-06-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+597,21-06-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+598,17-06-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+599,06-06-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+600,22-06-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+601,04-07-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+602,25-07-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+603,03-07-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,Guru Purnima
+604,16-07-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Morning,None
+605,07-07-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+606,28-07-2023,Sweets,Beverage,100,1,100,Cash,Female,Evening,Muharram
+607,19-07-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+608,09-07-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+609,01-07-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+610,17-07-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+611,26-07-2023,Pav Bhaji,Fastfood,100,1,100,Online,Male,Evening,None
+612,18-07-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+613,08-07-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+614,23-07-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+615,11-07-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+616,30-07-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+617,19-07-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+618,09-07-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+619,27-07-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+620,12-07-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+621,31-07-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+622,13-07-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+623,05-07-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+624,24-07-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+625,14-07-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+626,01-07-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+627,20-07-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+628,10-07-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+629,28-07-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,Muharram
+630,15-07-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+631,02-07-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+632,16-07-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+633,03-07-2023,Kheer,Fastfood,30,2,60,Online,Male,Evening,Guru Purnima
+634,25-07-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+635,17-07-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+636,04-07-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+637,21-07-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+638,11-07-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+639,29-07-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+640,18-07-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+641,05-07-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+642,19-07-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+643,06-07-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+644,26-07-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+645,18-07-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+646,07-07-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+647,22-07-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+648,12-07-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+649,30-07-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+650,19-07-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+651,08-07-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+652,20-07-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+653,09-07-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+654,27-07-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+655,19-07-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+656,10-07-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+657,23-07-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+658,13-07-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+659,31-07-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+660,20-07-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+661,11-07-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+662,21-07-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+663,12-07-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+664,28-07-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,Muharram
+665,20-07-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+666,13-07-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+667,24-07-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+668,14-07-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+669,01-07-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+670,21-07-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+671,14-07-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+672,22-07-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+673,15-07-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+674,29-07-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+675,21-07-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+676,16-07-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+677,25-07-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+678,17-07-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+679,02-07-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+680,22-07-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+681,18-07-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+682,23-07-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+683,19-07-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+684,30-07-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+685,22-07-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+686,20-07-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+687,26-07-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+688,21-07-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+689,03-07-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+690,23-07-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+691,22-07-2023,Ice Cream,Beverage,50,1,50,Cash,Female,Afternoon,None
+692,24-07-2023,Masala Chai,Beverage,20,2,40,Cash,Female,Evening,None
+693,23-07-2023,Vada Pav,Fastfood,30,2,60,Online,Male,Evening,None
+694,31-07-2023,Dosa,Fastfood,70,1,70,Online,Male,Morning,None
+695,24-07-2023,Samosa,Fastfood,20,2,40,Cash,Female,Evening,None
+696,21-07-2023,Idli Sambhar,Fastfood,60,1,60,Online,Male,Morning,None
+697,27-07-2023,Cold Coffee,Beverage,80,1,80,Cash,Female,Afternoon,None
+698,22-07-2023,Masala Dosa,Fastfood,80,1,80,Online,Male,Morning,None
+699,04-07-2023,Butter Chicken,Fastfood,250,2,500,Cash,Female,Evening,None
+700,24-07-2023,Kheer,Beverage,50,1,50,Online,Male,Evening,None
+701,02-08-2023,Poha,Fastfood,57,3,171,Cash,Female,Afternoon,None
+702,05-08-2023,Dhokla,Fastfood,46,3,138,Cash,Male,Night,None
+703,15-08-2023,Jalebi,Fastfood,89,2,178,Online,Male,Morning,Independence Day
+704,08-08-2023,Biryani,Fastfood,31,1,31,Online,Female,Night,None
+705,09-08-2023,Idli,Fastfood,62,1,62,Cash,Male,Night,None
+706,11-08-2023,Masala Chai,Beverage,71,5,355,Online,Female,Night,None
+707,13-08-2023,Chai,Beverage,137,1,137,Online,Female,Night,None
+708,30-08-2023,Chocolate Pudding,Fastfood,93,2,186,Online,Female,Morning,Rakhi
+709,12-08-2023,Misal Pav,Fastfood,129,5,645,Online,Male,Afternoon,None
+710,01-08-2023,Lassi,Beverage,136,2,272,Online,Female,Afternoon,None
+711,02-08-2023,Chocolate Pudding,Fastfood,93,4,372,Online,Male,Night,None
+712,02-08-2023,Butter Chicken,Fastfood,109,2,218,Cash,Female,Evening,None
+713,25-08-2023,Pakoda,Fastfood,62,5,310,Online,Male,Afternoon,None
+714,12-08-2023,Pav Bhaji,Fastfood,45,5,225,Cash,Male,Evening,None
+715,25-08-2023,Chai,Beverage,137,4,548,Online,Male,Night,None
+716,08-08-2023,Jalebi,Fastfood,89,2,178,Cash,Female,Morning,None
+717,21-08-2023,Butter Chicken,Fastfood,109,4,436,Cash,Female,Afternoon,None
+718,03-08-2023,Chai,Beverage,137,1,137,Online,Female,Afternoon,None
+719,31-08-2023,Chai,Beverage,137,4,548,Online,Male,Afternoon,None
+720,01-08-2023,Pakoda,Fastfood,62,5,310,Cash,Male,Evening,None
+721,11-08-2023,Dosa,Fastfood,121,1,121,Online,Male,Evening,None
+722,17-08-2023,Jalebi,Fastfood,89,1,89,Cash,Female,Morning,None
+723,06-08-2023,Vada,Fastfood,128,1,128,Online,Female,Evening,None
+724,13-08-2023,Pakoda,Fastfood,62,4,248,Online,Female,Morning,None
+725,19-08-2023,Chai,Beverage,137,3,411,Cash,Female,Afternoon,None
+726,17-08-2023,Pakoda,Fastfood,62,4,248,Online,Male,Morning,None
+727,20-08-2023,Rajma,Fastfood,68,1,68,Cash,Female,Night,None
+728,16-08-2023,Butter Chicken,Fastfood,109,3,327,Cash,Female,Evening,None
+729,19-08-2023,Dosa,Fastfood,121,3,363,Online,Male,Evening,None
+730,06-08-2023,Pakoda,Fastfood,62,1,62,Online,Female,Morning,None
+731,29-08-2023,Rasam,Fastfood,56,5,280,Online,Male,Evening,Onam
+732,26-08-2023,Aloo Paratha,Fastfood,66,2,132,Cash,Male,Night,None
+733,11-08-2023,Masala Chai,Beverage,71,4,284,Online,Female,Afternoon,None
+734,01-08-2023,Thandai,Beverage,122,3,366,Online,Female,Night,None
+735,04-08-2023,Chai,Beverage,137,4,548,Online,Female,Evening,None
+736,22-08-2023,Vada,Fastfood,128,2,256,Cash,Male,Afternoon,None
+737,21-08-2023,Chai,Beverage,137,3,411,Cash,Male,Evening,None
+738,30-08-2023,Chocolate Pudding,Fastfood,93,5,465,Online,Female,Evening,Rakhi
+739,18-08-2023,Chai,Beverage,137,5,685,Online,Female,Evening,None
+740,17-08-2023,Chai,Beverage,137,1,137,Online,Female,Evening,None
+741,27-08-2023,Lassi,Beverage,136,1,136,Online,Female,Night,None
+742,30-08-2023,Chocolate Pudding,Fastfood,93,3,279,Online,Female,Morning,Rakhi
+743,07-08-2023,Dosa,Fastfood,121,4,484,Online,Male,Morning,None
+744,04-08-2023,Naan,Fastfood,126,4,504,Cash,Female,Night,None
+745,05-08-2023,Naan,Fastfood,126,1,126,Cash,Female,Night,None
+746,17-08-2023,Lassi,Beverage,136,3,408,Online,Female,Evening,None
+747,12-08-2023,Dosa,Fastfood,121,3,363,Online,Male,Night,None
+748,13-08-2023,Poha,Fastfood,57,5,285,Cash,Male,Evening,None
+749,24-08-2023,Dosa,Fastfood,121,4,484,Cash,Female,Morning,None
+750,13-08-2023,Kheer,Fastfood,117,3,351,Online,Female,Afternoon,None
+751,03-08-2023,Chocolate Pudding,Fastfood,93,2,186,Cash,Female,Morning,None
+752,02-08-2023,Chai,Beverage,137,4,548,Cash,Male,Night,None
+753,21-08-2023,Rasam,Fastfood,56,3,168,Cash,Female,Evening,None
+754,15-08-2023,Jalebi,Fastfood,89,4,356,Online,Female,Morning,Independence Day
+755,15-08-2023,Jalebi,Fastfood,89,2,178,Cash,Female,Afternoon,Independence Day
+756,11-08-2023,Chole Bhature,Fastfood,81,4,324,Online,Male,Night,None
+757,21-08-2023,Pani Puri,Fastfood,113,3,339,Cash,Male,Afternoon,None
+758,09-08-2023,Chai,Beverage,137,5,685,Online,Female,Afternoon,None
+759,09-08-2023,Biryani,Fastfood,31,5,155,Cash,Female,Afternoon,None
+760,11-08-2023,Misal Pav,Fastfood,129,2,258,Cash,Female,Night,None
+761,14-08-2023,Pakoda,Fastfood,62,1,62,Online,Male,Evening,None
+762,05-08-2023,Butter Chicken,Fastfood,109,5,545,Online,Male,Afternoon,None
+763,14-08-2023,Thandai,Beverage,122,1,122,Online,Male,Afternoon,None
+764,05-08-2023,Lassi,Beverage,136,5,680,Online,Female,Afternoon,None
+765,27-08-2023,Chai,Beverage,137,4,548,Online,Female,Evening,None
+766,17-08-2023,Misal Pav,Fastfood,129,3,387,Online,Female,Night,None
+767,04-08-2023,Lassi,Beverage,136,4,544,Cash,Female,Morning,None
+768,05-08-2023,Chole Bhature,Fastfood,81,5,405,Cash,Female,Morning,None
+769,22-08-2023,Poha,Fastfood,57,4,228,Online,Male,Morning,None
+770,27-08-2023,Chai,Beverage,137,4,548,Cash,Male,Afternoon,None
+771,06-08-2023,Masala Chai,Beverage,71,4,284,Cash,Male,Afternoon,None
+772,06-08-2023,Gulab Jamun,Fastfood,110,2,220,Online,Female,Morning,None
+773,26-08-2023,Chai,Beverage,137,2,274,Cash,Female,Evening,None
+774,29-08-2023,Rasam,Fastfood,56,3,168,Cash,Male,Morning,Onam
+775,31-08-2023,Chole Bhature,Fastfood,81,5,405,Online,Male,Night,None
+776,30-08-2023,Chocolate Pudding,Fastfood,93,1,93,Cash,Male,Evening,Rakhi
+777,08-08-2023,Dhokla,Fastfood,46,5,230,Cash,Female,Night,None
+778,27-08-2023,Dhokla,Fastfood,46,5,230,Online,Female,Evening,None
+779,13-08-2023,Pakoda,Fastfood,62,4,248,Cash,Male,Afternoon,None
+780,03-08-2023,Samosa,Fastfood,29,3,87,Online,Female,Afternoon,None
+781,04-08-2023,Chai,Beverage,137,2,274,Online,Female,Morning,None
+782,16-08-2023,Poha,Fastfood,57,2,114,Cash,Female,Morning,None
+783,15-08-2023,Jalebi,Fastfood,89,2,178,Online,Male,Night,Independence Day
+784,10-08-2023,Aloo Paratha,Fastfood,66,5,330,Online,Male,Evening,None
+785,04-08-2023,Chai,Beverage,137,5,685,Online,Female,Evening,None
+786,07-08-2023,Pakoda,Fastfood,62,5,310,Cash,Male,Night,None
+787,27-08-2023,Pakoda,Fastfood,62,1,62,Online,Male,Evening,None
+788,05-08-2023,Chole Bhature,Fastfood,81,4,324,Online,Female,Morning,None
+789,16-08-2023,Pakoda,Fastfood,62,3,186,Cash,Female,Evening,None
+790,10-08-2023,Misal Pav,Fastfood,129,2,258,Online,Female,Evening,None
+791,18-08-2023,Naan,Fastfood,126,1,126,Online,Male,Morning,None
+792,05-08-2023,Pakoda,Fastfood,62,5,310,Online,Male,Afternoon,None
+793,14-08-2023,Biryani,Fastfood,31,5,155,Online,Female,Evening,None
+794,19-08-2023,Thandai,Beverage,122,5,610,Online,Male,Afternoon,None
+795,12-08-2023,Idli,Fastfood,62,5,310,Cash,Female,Morning,None
+796,09-08-2023,Aloo Paratha,Fastfood,66,4,264,Cash,Male,Morning,None
+797,30-08-2023,Chocolate Pudding,Fastfood,93,4,372,Cash,Female,Afternoon,Rakhi
+798,02-08-2023,Thandai,Beverage,122,3,366,Online,Male,Afternoon,None
+799,18-08-2023,Chai,Beverage,137,4,548,Cash,Male,Afternoon,None
+800,22-08-2023,Lassi,Beverage,136,5,680,Online,Female,Evening,None
+801,07-09-2023,Sabudana Khichdi,Fastfood,80,1,80,Cash,Male,Morning,Janmashtami
+802,02-09-2023,Samosa,Beverage,30,2,60,Online,Female,Afternoon,None
+803,19-09-2023,Puranpoli,Fastfood,50,1,50,Online,Male,Evening,Ganesh Chaturthi
+804,04-09-2023,Samosa,Beverage,30,2,60,Cash,Female,Night,None
+805,05-09-2023,Samosa,Beverage,30,1,30,Online,Male,Morning,None
+806,07-09-2023,Chai,Beverage,20,2,40,Online,Female,Afternoon,Janmashtami
+807,07-09-2023,Samosa,Beverage,30,1,30,Cash,Male,Evening,Janmashtami
+808,19-09-2023,Pakoda,Fastfood,40,2,80,Online,Female,Night,Ganesh Chaturthi
+809,09-09-2023,Samosa,Beverage,30,1,30,Online,Male,Morning,None
+810,27-09-2023,Shirkurma,Beverage,100,2,200,Cash,Female,Afternoon,Eid
+811,11-09-2023,Chai,Beverage,20,1,20,Online,Male,Evening,None
+812,12-09-2023,Samosa,Beverage,30,2,60,Online,Female,Night,None
+813,13-09-2023,Samosa,Beverage,30,1,30,Cash,Male,Morning,None
+814,14-09-2023,Samosa,Beverage,30,2,60,Online,Female,Afternoon,None
+815,15-09-2023,Pakoda,Fastfood,40,1,40,Online,Male,Evening,None
+816,27-09-2023,Chai,Beverage,20,2,40,Cash,Female,Night,Eid
+817,17-09-2023,Samosa,Beverage,30,1,30,Online,Male,Morning,None
+818,18-09-2023,Samosa,Beverage,30,2,60,Online,Female,Afternoon,None
+819,19-09-2023,Samosa,Beverage,30,1,30,Cash,Male,Evening,Ganesh Chaturthi
+820,20-09-2023,Samosa,Beverage,30,2,60,Online,Female,Night,None
+821,21-09-2023,Chai,Beverage,20,1,20,Online,Male,Morning,None
+822,22-09-2023,Pakoda,Fastfood,40,2,80,Cash,Female,Afternoon,None
+823,23-09-2023,Samosa,Beverage,30,1,30,Online,Male,Evening,None
+824,24-09-2023,Samosa,Beverage,30,2,60,Online,Female,Night,None
+825,25-09-2023,Samosa,Beverage,30,1,30,Cash,Male,Morning,None
+826,26-09-2023,Chai,Beverage,20,2,40,Online,Female,Afternoon,None
+827,27-09-2023,Samosa,Beverage,30,1,30,Online,Male,Evening,Eid
+828,28-09-2023,Samosa,Beverage,30,2,60,Cash,Female,Night,None
+829,29-09-2023,Pakoda,Fastfood,40,1,40,Online,Male,Morning,None
+830,30-09-2023,Samosa,Beverage,30,2,60,Online,Female,Afternoon,None
+831,01-09-2023,Chai,Beverage,20,1,20,Cash,Male,Evening,None
+832,02-09-2023,Samosa,Beverage,30,2,60,Online,Female,Night,None
+833,03-09-2023,Samosa,Beverage,30,1,30,Online,Male,Morning,None
+834,04-09-2023,Samosa,Beverage,30,2,60,Cash,Female,Afternoon,None
+835,05-09-2023,Samosa,Beverage,30,1,30,Online,Male,Evening,None
+836,06-09-2023,Chai,Beverage,20,2,40,Online,Female,Night,None
+837,07-09-2023,Samosa,Beverage,30,1,30,Cash,Male,Morning,Janmashtami
+838,08-09-2023,Samosa,Beverage,30,2,60,Online,Female,Afternoon,None
+839,09-09-2023,Samosa,Beverage,30,1,30,Online,Male,Evening,None
+840,10-09-2023,Samosa,Beverage,30,2,60,Cash,Female,Night,None
+841,11-09-2023,Chai,Beverage,20,1,20,Online,Male,Morning,None
+842,12-09-2023,Samosa,Beverage,30,2,60,Online,Female,Afternoon,None
+843,13-09-2023,Pakoda,Fastfood,40,1,40,Cash,Male,Evening,None
+844,14-09-2023,Samosa,Beverage,30,2,60,Online,Female,Night,None
+845,15-09-2023,Samosa,Beverage,30,1,30,Online,Male,Morning,None
+846,16-09-2023,Chai,Beverage,20,2,40,Cash,Female,Afternoon,None
+847,17-09-2023,Samosa,Beverage,30,1,30,Online,Male,Evening,None
+848,18-09-2023,Samosa,Beverage,30,2,60,Online,Female,Night,None
+849,19-09-2023,Samosa,Beverage,30,1,30,Cash,Male,Morning,Ganesh Chaturthi
+850,20-09-2023,Pakoda,Fastfood,40,2,80,Online,Female,Afternoon,None
+851,21-09-2023,Chai,Beverage,20,1,20,Online,Male,Evening,None
+852,22-09-2023,Samosa,Beverage,30,2,60,Cash,Female,Night,None
+853,23-09-2023,Samosa,Beverage,30,1,30,Online,Male,Morning,None
+854,24-09-2023,Samosa,Beverage,30,2,60,Online,Female,Afternoon,None
+855,25-09-2023,Samosa,Beverage,30,1,30,Cash,Male,Evening,None
+856,26-09-2023,Chai,Beverage,20,2,40,Online,Female,Night,None
+857,27-09-2023,Pakoda,Fastfood,40,1,40,Online,Male,Morning,Eid
+858,28-09-2023,Samosa,Beverage,30,2,60,Cash,Female,Afternoon,None
+859,29-09-2023,Samosa,Beverage,30,1,30,Online,Male,Evening,None
+860,30-09-2023,Samosa,Beverage,30,2,60,Online,Female,Night,None
+861,01-09-2023,Chai,Beverage,20,1,20,Cash,Male,Morning,None
+862,02-09-2023,Samosa,Beverage,30,2,60,Online,Female,Afternoon,None
+863,03-09-2023,Samosa,Beverage,30,1,30,Online,Male,Evening,None
+864,04-09-2023,Pakoda,Fastfood,40,2,80,Cash,Female,Night,None
+865,05-09-2023,Samosa,Beverage,30,1,30,Online,Male,Morning,None
+866,06-09-2023,Chai,Beverage,20,2,40,Online,Female,Afternoon,None
+867,07-09-2023,Samosa,Beverage,30,1,30,Cash,Male,Evening,Janmashtami
+868,08-09-2023,Samosa,Beverage,30,2,60,Online,Female,Night,None
+869,09-09-2023,Samosa,Beverage,30,1,30,Online,Male,Morning,None
+870,10-09-2023,Samosa,Beverage,30,2,60,Cash,Female,Afternoon,None
+871,11-09-2023,Chai,Beverage,20,1,20,Online,Male,Evening,None
+872,12-09-2023,Samosa,Beverage,30,2,60,Online,Female,Night,None
+873,13-09-2023,Samosa,Beverage,30,1,30,Cash,Male,Morning,None
+874,14-09-2023,Samosa,Beverage,30,2,60,Online,Female,Afternoon,None
+875,15-09-2023,Samosa,Beverage,30,1,30,Online,Male,Evening,None
+876,16-09-2023,Chai,Beverage,20,2,40,Cash,Female,Night,None
+877,17-09-2023,Samosa,Beverage,30,1,30,Online,Male,Morning,None
+878,18-09-2023,Pakoda,Fastfood,40,2,80,Online,Female,Afternoon,None
+879,19-09-2023,Samosa,Beverage,30,1,30,Cash,Male,Evening,Ganesh Chaturthi
+880,20-09-2023,Samosa,Beverage,30,2,60,Online,Female,Night,None
+881,21-09-2023,Chai,Beverage,20,1,20,Online,Male,Morning,None
+882,22-09-2023,Samosa,Beverage,30,2,60,Cash,Female,Afternoon,None
+883,23-09-2023,Samosa,Beverage,30,1,30,Online,Male,Evening,None
+884,24-09-2023,Samosa,Beverage,30,2,60,Online,Female,Night,None
+885,25-09-2023,Pakoda,Fastfood,40,1,40,Cash,Male,Morning,None
+886,26-09-2023,Chai,Beverage,20,2,40,Online,Female,Afternoon,None
+887,27-09-2023,Samosa,Beverage,30,1,30,Online,Male,Evening,Eid
+888,28-09-2023,Samosa,Beverage,30,2,60,Cash,Female,Night,None
+889,29-09-2023,Samosa,Beverage,30,1,30,Online,Male,Morning,None
+890,30-09-2023,Samosa,Beverage,30,2,60,Online,Female,Afternoon,None
+891,01-09-2023,Chai,Beverage,20,1,20,Cash,Male,Evening,None
+892,02-09-2023,Pakoda,Fastfood,40,2,80,Online,Female,Night,None
+893,03-09-2023,Samosa,Beverage,30,1,30,Online,Male,Morning,None
+894,04-09-2023,Samosa,Beverage,30,2,60,Cash,Female,Afternoon,None
+895,05-09-2023,Samosa,Beverage,30,1,30,Online,Male,Evening,None
+896,06-09-2023,Chai,Beverage,20,2,40,Online,Female,Night,None
+897,07-09-2023,Samosa,Beverage,30,1,30,Cash,Male,Morning,Janmashtami
+898,08-09-2023,Samosa,Beverage,30,2,60,Online,Female,Afternoon,None
+899,09-09-2023,Pakoda,Fastfood,40,1,40,Online,Male,Evening,None
+900,10-09-2023,Samosa,Beverage,30,2,60,Cash,Female,Night,None
+901,21-10-2023,Pav Bhaji,Fastfood,157,2,314,Cash,Female,Afternoon,None
+902,06-10-2023,Chole Bhature,Fastfood,149,1,149,Online,Female,Night,None
+903,31-10-2023,Masala Chai,Beverage,36,2,72,Cash,Female,Afternoon,None
+904,11-10-2023,Idli,Fastfood,47,4,188,Online,Male,Evening,None
+905,30-10-2023,Lassi,Beverage,184,5,920,Cash,Female,Evening,None
+906,14-10-2023,Kheer,Fastfood,164,1,164,Cash,Male,Evening,None
+907,16-10-2023,Masala Chai,Beverage,36,1,36,Cash,Male,Night,None
+908,16-10-2023,Masala Chai,Beverage,36,1,36,Online,Female,Afternoon,None
+909,07-10-2023,Filter Coffee,Beverage,120,4,480,Cash,Male,Evening,None
+910,26-10-2023,Masala Chai,Beverage,36,1,36,Cash,Female,Morning,None
+911,17-10-2023,Naan,Fastfood,67,5,335,Cash,Female,Evening,None
+912,09-10-2023,Dhokla,Fastfood,37,5,185,Online,Female,Morning,None
+913,19-10-2023,Naan,Fastfood,67,2,134,Online,Male,Night,None
+914,05-10-2023,Filter Coffee,Beverage,120,3,360,Cash,Male,Night,None
+915,25-10-2023,Poha,Fastfood,91,4,364,Online,Male,Morning,None
+916,04-10-2023,Dosa,Fastfood,100,5,500,Cash,Female,Morning,None
+917,06-10-2023,Biryani,Fastfood,115,3,345,Online,Male,Evening,None
+918,25-10-2023,Dal Tadka,Fastfood,93,4,372,Cash,Female,Afternoon,None
+919,21-10-2023,Filter Coffee,Beverage,120,5,600,Online,Male,Evening,None
+920,28-10-2023,Filter Coffee,Beverage,120,4,480,Online,Male,Morning,None
+921,25-10-2023,Paneer Tikka,Fastfood,170,5,850,Online,Male,Night,None
+922,21-10-2023,Masala Chai,Beverage,36,4,144,Online,Female,Evening,None
+923,18-10-2023,Rajma,Fastfood,31,2,62,Cash,Female,Evening,None
+924,02-10-2023,Chai,Beverage,127,2,254,Cash,Female,Night,None
+925,13-10-2023,Rajma,Fastfood,31,1,31,Cash,Female,Morning,None
+926,05-10-2023,Chai,Beverage,127,4,508,Cash,Female,Morning,None
+927,05-10-2023,Masala Chai,Beverage,36,2,72,Online,Female,Morning,None
+928,13-10-2023,Vada,Fastfood,176,2,352,Cash,Male,Night,None
+929,29-10-2023,Dosa,Fastfood,100,1,100,Cash,Male,Night,None
+930,07-10-2023,Masala Chai,Beverage,36,3,108,Online,Male,Evening,None
+931,21-10-2023,Masala Chai,Beverage,36,1,36,Online,Female,Afternoon,None
+932,03-10-2023,Pav Bhaji,Fastfood,157,3,471,Cash,Female,Morning,None
+933,27-10-2023,Lassi,Beverage,184,4,736,Cash,Male,Afternoon,None
+934,24-10-2023,Puranpoli,Fastfood,149,2,298,Online,Female,Morning,Dussehra
+935,23-10-2023,Pani Puri,Fastfood,147,4,588,Cash,Female,Morning,None
+936,03-10-2023,Roti,Fastfood,118,1,118,Cash,Male,Morning,None
+937,07-10-2023,Pakoda,Fastfood,168,4,672,Cash,Female,Night,None
+938,04-10-2023,Chai,Beverage,127,1,127,Cash,Female,Afternoon,None
+939,04-10-2023,Filter Coffee,Beverage,120,4,480,Online,Female,Evening,None
+940,17-10-2023,Masala Chai,Beverage,36,2,72,Cash,Female,Night,None
+941,06-10-2023,Dal Tadka,Fastfood,93,2,186,Cash,Female,Evening,None
+942,06-10-2023,Paneer Tikka,Fastfood,170,2,340,Online,Male,Afternoon,None
+943,15-10-2023,Paneer Tikka,Fastfood,170,3,510,Online,Male,Night,None
+944,20-10-2023,Chai,Beverage,127,4,508,Online,Male,Morning,None
+945,04-10-2023,Suji Halwa,Fastfood,47,2,94,Online,Male,Night,None
+946,10-10-2023,Chai,Beverage,127,3,381,Online,Male,Morning,None
+947,27-10-2023,Chai,Beverage,127,2,254,Online,Male,Night,None
+948,24-10-2023,Puranpoli,Fastfood,149,4,596,Online,Female,Afternoon,Dussehra
+949,15-10-2023,Paneer Tikka,Fastfood,170,3,510,Online,Male,Afternoon,None
+950,07-10-2023,Dhokla,Fastfood,37,1,37,Cash,Male,Afternoon,None
+951,31-10-2023,Misal Pav,Fastfood,23,5,115,Cash,Female,Evening,None
+952,26-10-2023,Chai,Beverage,127,3,381,Online,Male,Evening,None
+953,17-10-2023,Chai,Beverage,127,2,254,Cash,Female,Morning,None
+954,24-10-2023,Puranpoli,Fastfood,149,2,298,Cash,Male,Afternoon,Dussehra
+955,01-10-2023,Filter Coffee,Beverage,120,4,480,Cash,Female,Morning,None
+956,26-10-2023,Puranpoli,Fastfood,149,1,149,Online,Male,Night,None
+957,02-10-2023,Rasam,Fastfood,67,1,67,Online,Male,Evening,None
+958,19-10-2023,Idli,Fastfood,47,1,47,Online,Female,Morning,None
+959,30-10-2023,Chai,Beverage,127,3,381,Cash,Female,Morning,None
+960,19-10-2023,Dosa,Fastfood,100,1,100,Online,Female,Afternoon,None
+961,19-10-2023,Dosa,Fastfood,100,4,400,Cash,Male,Morning,None
+962,24-10-2023,Puranpoli,Fastfood,149,3,447,Cash,Male,Night,Dussehra
+963,25-10-2023,Rasam,Fastfood,67,2,134,Online,Female,Evening,None
+964,16-10-2023,Chai,Beverage,127,1,127,Cash,Male,Night,None
+965,28-10-2023,Pakoda,Fastfood,168,3,504,Cash,Male,Evening,None
+966,05-10-2023,Pani Puri,Fastfood,147,2,294,Online,Female,Afternoon,None
+967,08-10-2023,Puranpoli,Fastfood,149,3,447,Online,Female,Evening,None
+968,10-10-2023,Dal Tadka,Fastfood,93,3,279,Online,Female,Night,None
+969,07-10-2023,Chai,Beverage,127,5,635,Online,Female,Evening,None
+970,16-10-2023,Puranpoli,Fastfood,149,2,298,Cash,Female,Evening,None
+971,30-10-2023,Naan,Fastfood,67,1,67,Online,Male,Morning,None
+972,23-10-2023,Filter Coffee,Beverage,120,3,360,Online,Male,Night,None
+973,21-10-2023,Thandai,Beverage,66,3,198,Cash,Male,Night,None
+974,28-10-2023,Samosa,Fastfood,48,1,48,Cash,Female,Night,None
+975,26-10-2023,Poha,Fastfood,91,2,182,Online,Male,Afternoon,None
+976,17-10-2023,Chai,Beverage,127,1,127,Cash,Female,Afternoon,None
+977,23-10-2023,Chai,Beverage,127,1,127,Cash,Male,Evening,None
+978,17-10-2023,Chai,Beverage,127,3,381,Cash,Male,Morning,None
+979,02-10-2023,Idli,Fastfood,47,2,94,Cash,Male,Morning,None
+980,27-10-2023,Chai,Beverage,127,2,254,Online,Female,Morning,None
+981,06-10-2023,Chai,Beverage,127,1,127,Online,Female,Night,None
+982,11-10-2023,Dhokla,Fastfood,37,4,148,Online,Female,Morning,None
+983,02-10-2023,Puranpoli,Fastfood,149,1,149,Cash,Male,Night,None
+984,14-10-2023,Filter Coffee,Beverage,120,3,360,Online,Female,Morning,None
+985,02-10-2023,Filter Coffee,Beverage,120,5,600,Online,Female,Afternoon,None
+986,31-10-2023,Chai,Beverage,127,1,127,Online,Male,Evening,None
+987,25-10-2023,Biryani,Fastfood,115,5,575,Online,Female,Morning,None
+988,14-10-2023,Masala Chai,Beverage,36,1,36,Online,Male,Morning,None
+989,06-10-2023,Suji Halwa,Fastfood,47,2,94,Cash,Female,Afternoon,None
+990,09-10-2023,Filter Coffee,Beverage,120,1,120,Online,Female,Night,None
+991,22-10-2023,Suji Halwa,Fastfood,47,3,141,Cash,Female,Afternoon,Durga Ashtami
+992,04-10-2023,Filter Coffee,Beverage,120,4,480,Online,Male,Night,None
+993,29-10-2023,Masala Chai,Beverage,36,2,72,Cash,Female,Afternoon,None
+994,18-10-2023,Chai,Beverage,127,3,381,Online,Male,Night,None
+995,17-10-2023,Masala Chai,Beverage,36,4,144,Online,Female,Morning,None
+996,29-10-2023,Filter Coffee,Beverage,120,2,240,Cash,Male,Morning,None
+997,08-10-2023,Puranpoli,Fastfood,149,1,149,Online,Female,Morning,None
+998,07-10-2023,Filter Coffee,Beverage,120,5,600,Online,Male,Morning,None
+999,18-10-2023,Idli,Fastfood,47,5,235,Online,Female,Night,None
+1000,22-10-2023,Kheer,Fastfood,164,1,164,Cash,Female,Night,Durga Ashtami
+1001,30-11-2023,Aloo Paratha,Fastfood,129,2,258,Cash,Female,Morning,None
+1002,01-11-2023,Mung Dal Ka Halwa,Fastfood,139,5,695,Online,Female,Night,Karwa Chauth
+1003,03-11-2023,Masala Chai,Beverage,116,4,464,Cash,Male,Night,
+1004,16-11-2023,Chai,Beverage,185,3,555,Cash,Female,Afternoon,None
+1005,01-11-2023,Mung Dal Ka Halwa,Fastfood,139,2,278,Cash,Male,Night,Karwa Chauth
+1006,02-11-2023,Chai,Beverage,185,2,370,Online,Female,Evening,None
+1007,23-11-2023,Filter Coffee,Beverage,24,4,96,Cash,Male,Morning,None
+1008,19-11-2023,Filter Coffee,Beverage,24,3,72,Cash,Male,Evening,None
+1009,09-11-2023,Filter Coffee,Beverage,24,3,72,Online,Female,Morning,None
+1010,01-11-2023,Mung Dal Ka Halwa,Fastfood,139,1,139,Online,Male,Afternoon,Karwa Chauth
+1011,17-11-2023,Naan,Fastfood,111,5,555,Online,Male,Morning,None
+1012,12-11-2023,Sweets Mithai,Fastfood,86,4,344,Cash,Female,Evening,Diwali
+1013,12-11-2023,Sweets Mithai,Fastfood,86,1,86,Online,Female,Night,Diwali
+1014,25-11-2023,Chai,Beverage,185,5,925,Cash,Male,Afternoon,None
+1015,13-11-2023,Pav Bhaji,Fastfood,27,3,81,Online,Male,Morning,None
+1016,25-11-2023,Aloo Paratha,Fastfood,129,4,516,Online,Male,Night,None
+1017,18-11-2023,Paneer Tikka,Fastfood,29,3,87,Online,Female,Evening,None
+1018,30-11-2023,Masala Chai,Beverage,116,3,348,Online,Female,Morning,None
+1019,16-11-2023,Sweets Mithai,Fastfood,86,5,430,Cash,Male,Afternoon,None
+1020,03-11-2023,Filter Coffee,Beverage,24,5,120,Online,Male,Morning,None
+1021,26-11-2023,Pani Puri,Fastfood,199,3,597,Online,Female,Morning,None
+1022,16-11-2023,Kheer,Fastfood,157,1,157,Cash,Female,Night,None
+1023,03-11-2023,Chai,Beverage,185,2,370,Cash,Male,Night,None
+1024,24-11-2023,Chai,Beverage,185,5,925,Cash,Male,Afternoon,None
+1025,15-11-2023,Kheer,Fastfood,157,4,628,Online,Female,Afternoon,None
+1026,26-11-2023,Filter Coffee,Beverage,24,1,24,Online,Male,Evening,None
+1027,06-11-2023,Masala Chai,Beverage,116,1,116,Cash,Male,Afternoon,None
+1028,15-11-2023,Misal Pav,Fastfood,45,4,180,Cash,Male,Evening,None
+1029,18-11-2023,Poha,Fastfood,96,5,480,Cash,Male,Morning,None
+1030,23-11-2023,Vada,Fastfood,62,2,124,Online,Male,Evening,None
+1031,08-11-2023,Roti,Fastfood,128,1,128,Online,Female,Evening,None
+1032,24-11-2023,Masala Chai,Beverage,116,1,116,Online,Female,Evening,None
+1033,15-11-2023,Misal Pav,Fastfood,45,3,135,Online,Female,Afternoon,None
+1034,29-11-2023,Filter Coffee,Beverage,24,4,96,Cash,Male,Afternoon,None
+1035,07-11-2023,Dal Tadka,Fastfood,91,1,91,Online,Female,Morning,None
+1036,18-11-2023,Masala Chai,Beverage,116,5,580,Online,Female,Afternoon,None
+1037,28-11-2023,Dosa,Fastfood,60,2,120,Cash,Female,Night,None
+1038,24-11-2023,Samosa,Fastfood,124,4,496,Cash,Female,Night,None
+1039,16-11-2023,Mung Dal Ka Halwa,Fastfood,139,3,417,Cash,Female,Afternoon,None
+1040,18-11-2023,Upma,Fastfood,101,2,202,Online,Female,Night,None
+1041,19-11-2023,Mung Dal Ka Halwa,Fastfood,139,3,417,Online,Female,Evening,None
+1042,02-11-2023,Suji Halwa,Fastfood,178,3,534,Online,Female,Evening,None
+1043,27-11-2023,Masala Chai,Beverage,116,5,580,Cash,Female,Afternoon,None
+1044,11-11-2023,Chai,Beverage,185,5,925,Online,Male,Afternoon,None
+1045,12-11-2023,Sweets Mithai,Fastfood,86,5,430,Cash,Female,Evening,Diwali
+1046,17-11-2023,Samosa,Fastfood,124,5,620,Online,Male,Afternoon,None
+1047,01-11-2023,Mung Dal Ka Halwa,Fastfood,139,4,556,Online,Male,Afternoon,Karwa Chauth
+1048,04-11-2023,Masala Chai,Beverage,116,1,116,Online,Female,Evening,None
+1049,23-11-2023,Chai,Beverage,185,2,370,Online,Male,Evening,None
+1050,28-11-2023,Masala Chai,Beverage,116,3,348,Online,Male,Evening,None
+1051,14-11-2023,Dal Tadka,Fastfood,91,3,273,Cash,Female,Afternoon,None
+1052,16-11-2023,Filter Coffee,Beverage,24,2,48,Online,Female,Evening,None
+1053,14-11-2023,Chai,Beverage,185,1,185,Online,Female,Morning,None
+1054,25-11-2023,Chai,Beverage,185,2,370,Online,Male,Morning,None
+1055,20-11-2023,Chai,Beverage,185,2,370,Online,Male,Night,None
+1056,26-11-2023,Chai,Beverage,185,2,370,Online,Female,Morning,None
+1057,03-11-2023,Chole Bhature,Fastfood,190,1,190,Cash,Female,Night,None
+1058,22-11-2023,Lassi,Beverage,52,5,260,Cash,Female,Night,None
+1059,26-11-2023,Chai,Beverage,185,4,740,Online,Female,Morning,None
+1060,19-11-2023,Sweets Mithai,Fastfood,86,2,172,Online,Female,Night,None
+1061,05-11-2023,Chai,Beverage,185,4,740,Cash,Male,Evening,None
+1062,26-11-2023,Masala Chai,Beverage,116,3,348,Online,Male,Evening,None
+1063,24-11-2023,Masala Chai,Beverage,116,1,116,Online,Female,Night,None
+1064,08-11-2023,Idli,Fastfood,84,3,252,Online,Female,Evening,None
+1065,08-11-2023,Masala Chai,Beverage,116,2,232,Cash,Female,Night,None
+1066,22-11-2023,Misal Pav,Fastfood,45,3,135,Online,Female,Afternoon,None
+1067,07-11-2023,Chole Bhature,Fastfood,190,3,570,Cash,Male,Evening,None
+1068,26-11-2023,Puranpoli,Fastfood,190,4,760,Cash,Female,Afternoon,None
+1069,16-11-2023,Filter Coffee,Beverage,24,4,96,Cash,Male,Morning,None
+1070,20-11-2023,Masala Chai,Beverage,116,4,464,Cash,Male,Night,None
+1071,12-11-2023,Sweets Mithai,Fastfood,86,5,430,Cash,Female,Night,Diwali
+1072,25-11-2023,Chai,Beverage,185,5,925,Cash,Male,Night,None
+1073,13-11-2023,Chai,Beverage,185,3,555,Cash,Male,Night,None
+1074,12-11-2023,Sweets Mithai,Fastfood,86,2,172,Online,Female,Evening,Diwali
+1075,09-11-2023,Naan,Fastfood,111,5,555,Cash,Female,Night,None
+1076,19-11-2023,Chai,Beverage,185,2,370,Online,Female,Afternoon,None
+1077,15-11-2023,Masala Chai,Beverage,116,1,116,Online,Male,Night,None
+1078,24-11-2023,Vada,Fastfood,62,3,186,Online,Male,Evening,None
+1079,21-11-2023,Filter Coffee,Beverage,24,3,72,Cash,Male,Evening,None
+1080,28-11-2023,Masala Chai,Beverage,116,3,348,Cash,Female,Night,None
+1081,30-11-2023,Biryani,Fastfood,145,3,435,Cash,Female,Afternoon,None
+1082,15-11-2023,Mung Dal Ka Halwa,Fastfood,139,5,695,Cash,Female,Morning,None
+1083,28-11-2023,Biryani,Fastfood,145,3,435,Online,Male,Afternoon,None
+1084,06-11-2023,Vada,Fastfood,62,2,124,Online,Female,Afternoon,None
+1085,06-11-2023,Thandai,Beverage,156,2,312,Online,Female,Morning,None
+1086,08-11-2023,Thandai,Beverage,156,3,468,Online,Male,Evening,None
+1087,26-11-2023,Idli,Fastfood,84,5,420,Online,Male,Morning,None
+1088,08-11-2023,Dal Tadka,Fastfood,91,5,455,Online,Female,Afternoon,None
+1089,18-11-2023,Pav Bhaji,Fastfood,27,1,27,Cash,Female,Night,None
+1090,24-11-2023,Poha,Fastfood,96,2,192,Online,Female,Morning,None
+1091,17-11-2023,Poha,Fastfood,96,2,192,Online,Male,Night,None
+1092,16-11-2023,Filter Coffee,Beverage,24,2,48,Online,Female,Night,None
+1093,09-11-2023,Samosa,Fastfood,124,3,372,Cash,Female,Morning,None
+1094,18-11-2023,Filter Coffee,Beverage,24,1,24,Cash,Male,Morning,None
+1095,25-11-2023,Gulab Jamun,Fastfood,41,1,41,Cash,Male,Afternoon,None
+1096,16-11-2023,Masala Chai,Beverage,116,4,464,Online,Male,Morning,None
+1097,18-11-2023,Butter Chicken,Fastfood,32,4,128,Cash,Female,Morning,None
+1098,10-11-2023,Masala Chai,Beverage,116,1,116,Online,Female,Night,None
+1099,04-11-2023,Chai,Beverage,185,2,370,Online,Female,Morning,None
+1100,02-11-2023,Samosa,Fastfood,124,3,372,Cash,Female,Afternoon,None
+1101,10-12-2023,Chai,Beverage,20,1,20,Online,Male,Night,None
+1102,31-12-2023,Pani Puri,Fastfood,20,1,20,Cash,Female,Afternoon,None
+1103,01-12-2023,Idli,Fastfood,60,3,180,Cash,Male,Afternoon,None
+1104,29-12-2023,Vada Pav,Fastfood,25,3,75,Online,Female,Evening,None
+1105,14-12-2023,Aloo Tikki,Fastfood,40,2,80,Cash,Male,Morning,None
+1106,04-12-2023,Masala Chai,Beverage,25,2,50,Cash,Female,Night,None
+1107,02-12-2023,Chai,Beverage,20,1,20,Online,Female,Night,None
+1108,18-12-2023,Jalebi,Fastfood,50,3,150,Cash,Female,Evening,None
+1109,03-12-2023,Hot Chocolate,Beverage,40,1,40,Cash,Female,Afternoon,None
+1110,31-12-2023,Filter Coffee,Beverage,35,1,35,Online,Female,Afternoon,None
+1111,03-12-2023,Pani Puri,Fastfood,20,2,40,Cash,Female,Morning,None
+1112,29-12-2023,Coffee,Beverage,30,1,30,Cash,Male,Afternoon,None
+1113,02-12-2023,Masala Chai,Beverage,25,3,75,Online,Male,Morning,None
+1114,24-12-2023,Paneer Tikka,Fastfood,120,3,360,Online,Female,Morning,None
+1115,04-12-2023,Puddings,Fastfood,180,3,540,Online,Male,Night,None
+1116,04-12-2023,Momos,Fastfood,60,3,180,Cash,Female,Night,None
+1117,12-12-2023,Chai,Beverage,20,1,20,Online,Female,Night,None
+1118,18-12-2023,Chai,Beverage,20,2,40,Cash,Male,Morning,None
+1119,12-12-2023,Hot Chocolate,Beverage,40,2,80,Online,Female,Afternoon,None
+1120,02-12-2023,Idli,Fastfood,60,2,120,Cash,Female,Morning,None
+1121,19-12-2023,Samosa,Fastfood,30,3,90,Cash,Male,Night,None
+1122,01-12-2023,Idli,Fastfood,60,2,120,Online,Male,Afternoon,None
+1123,01-12-2023,Aloo Paratha,Fastfood,40,3,120,Online,Male,Night,None
+1124,23-12-2023,Dal Makhani,Fastfood,100,1,100,Cash,Female,Morning,None
+1125,01-12-2023,Lassi,Beverage,50,2,100,Online,Female,Night,None
+1126,11-12-2023,Hot Chocolate,Beverage,40,1,40,Cash,Male,Evening,None
+1127,10-12-2023,Coffee,Beverage,30,3,90,Cash,Female,Night,None
+1128,13-12-2023,Masala Chai,Beverage,25,2,50,Cash,Female,Night,None
+1129,06-12-2023,Hot Chocolate,Beverage,40,3,120,Online,Male,Night,None
+1130,26-12-2023,Idli,Fastfood,60,1,60,Online,Male,Evening,None
+1131,08-12-2023,Biryani,Fastfood,150,3,450,Cash,Male,Morning,None
+1132,26-12-2023,Masala Chai,Beverage,25,1,25,Online,Female,Afternoon,None
+1133,28-12-2023,Coffee,Beverage,30,3,90,Online,Female,Morning,None
+1134,15-12-2023,Pakoda,Fastfood,40,2,80,Online,Female,Evening,None
+1135,29-12-2023,Filter Coffee,Beverage,35,1,35,Cash,Male,Morning,None
+1136,15-12-2023,Poha,Fastfood,50,2,100,Online,Female,Afternoon,None
+1137,27-12-2023,Shrikhand,Fastfood,100,1,100,Online,Male,Evening,None
+1138,14-12-2023,Masala Chai,Beverage,25,2,50,Cash,Male,Morning,None
+1139,28-12-2023,Butter Chicken,Fastfood,200,3,600,Online,Male,Afternoon,None
+1140,23-12-2023,Pakoda,Fastfood,40,1,40,Cash,Male,Night,None
+1141,06-12-2023,Chai,Beverage,20,2,40,Online,Female,Evening,None
+1142,30-12-2023,Chai,Beverage,20,2,40,Cash,Male,Night,None
+1143,22-12-2023,Chai,Beverage,20,1,20,Cash,Male,Afternoon,None
+1144,05-12-2023,Kheer,Fastfood,80,3,240,Cash,Male,Night,None
+1145,04-12-2023,Aloo Tikki,Fastfood,40,2,80,Online,Male,Morning,None
+1146,30-12-2023,Dal Makhani,Fastfood,100,2,200,Cash,Female,Night,None
+1147,31-12-2023,Gulab Jamun,Fastfood,30,2,60,Cash,Female,Evening,None
+1148,03-12-2023,Hot Chocolate,Beverage,40,3,120,Online,Female,Night,None
+1149,17-12-2023,Vada Pav,Fastfood,25,2,50,Online,Female,Night,None
+1150,10-12-2023,Cakes,Fastfood,200,2,400,Online,Male,Night,None
+1151,27-12-2023,Masala Chai,Beverage,25,2,50,Cash,Male,Afternoon,None
+1152,24-12-2023,Masala Chai,Beverage,25,1,25,Online,Female,Evening,None
+1153,28-12-2023,Kheer,Fastfood,80,3,240,Online,Female,Morning,None
+1154,22-12-2023,Hot Chocolate,Beverage,40,1,40,Cash,Female,Evening,None
+1155,09-12-2023,Kachori,Fastfood,35,3,105,Cash,Male,Afternoon,None
+1156,24-12-2023,Lassi,Beverage,50,3,150,Cash,Male,Afternoon,None
+1157,25-12-2023,Puddings,Fastfood,180,3,540,Online,Female,Evening,Christmas
+1158,29-12-2023,Masala Chai,Beverage,25,3,75,Cash,Female,Afternoon,None
+1159,25-12-2023,Cakes,Fastfood,200,2,400,Cash,Male,Evening,Christmas
+1160,09-12-2023,Pani Puri,Fastfood,20,1,20,Cash,Male,Morning,None
+1161,26-12-2023,Coffee,Beverage,30,2,60,Cash,Male,Morning,None
+1162,04-12-2023,Dal Makhani,Fastfood,100,1,100,Cash,Male,Evening,None
+1163,26-12-2023,Roti,Fastfood,10,3,30,Online,Male,Night,None
+1164,14-12-2023,Dosa,Fastfood,80,1,80,Cash,Female,Night,None
+1165,01-12-2023,Coffee,Beverage,30,3,90,Online,Female,Afternoon,None
+1166,15-12-2023,Hot Chocolate,Beverage,40,3,120,Cash,Male,Morning,None
+1167,16-12-2023,Masala Chai,Beverage,25,3,75,Cash,Male,Evening,None
+1168,16-12-2023,Hot Chocolate,Beverage,40,3,120,Cash,Male,Afternoon,None
+1169,15-12-2023,Lassi,Beverage,50,2,100,Cash,Female,Evening,None
+1170,15-12-2023,Masala Chai,Beverage,25,2,50,Cash,Female,Evening,None
+1171,26-12-2023,Masala Chai,Beverage,25,1,25,Cash,Male,Evening,None
+1172,29-12-2023,Dosa,Fastfood,80,1,80,Online,Female,Morning,None
+1173,18-12-2023,Puddings,Fastfood,180,3,540,Online,Female,Morning,None
+1174,29-12-2023,Hot Chocolate,Beverage,40,1,40,Cash,Male,Evening,None
+1175,06-12-2023,Poha,Fastfood,50,2,100,Cash,Female,Night,None
+1176,04-12-2023,Aloo Tikki,Fastfood,40,2,80,Cash,Male,Evening,None
+1177,09-12-2023,Lassi,Beverage,50,1,50,Cash,Female,Morning,None
+1178,07-12-2023,Chai,Beverage,20,2,40,Cash,Male,Evening,None
+1179,06-12-2023,Kheer,Fastfood,80,1,80,Cash,Male,Evening,None
+1180,18-12-2023,Hot Chocolate,Beverage,40,3,120,Online,Female,Afternoon,None
+1181,13-12-2023,Chai,Beverage,20,3,60,Cash,Female,Morning,None
+1182,27-12-2023,Idli,Fastfood,60,3,180,Online,Male,Night,None
+1183,12-12-2023,Butter Chicken,Fastfood,200,1,200,Online,Female,Afternoon,None
+1184,19-12-2023,Pani Puri,Fastfood,20,2,40,Cash,Female,Night,None
+1185,24-12-2023,Dosa,Fastfood,80,1,80,Cash,Male,Morning,None
+1186,08-12-2023,Chai,Beverage,20,3,60,Online,Female,Night,None
+1187,17-12-2023,Idli,Fastfood,60,2,120,Cash,Male,Night,None
+1188,22-12-2023,Coffee,Beverage,30,2,60,Online,Female,Night,None
+1189,24-12-2023,Shrikhand,Fastfood,100,2,200,Online,Male,Evening,None
+1190,22-12-2023,Masala Chai,Beverage,25,1,25,Cash,Female,Afternoon,None
+1191,10-12-2023,Idli,Fastfood,60,3,180,Cash,Female,Evening,None
+1192,28-12-2023,Jalebi,Fastfood,50,2,100,Online,Female,Evening,None
+1193,21-12-2023,Shrikhand,Fastfood,100,3,300,Cash,Male,Evening,None
+1194,04-12-2023,Hot Chocolate,Beverage,40,3,120,Cash,Female,Afternoon,None
+1195,25-12-2023,Puddings,Fastfood,180,1,180,Online,Male,Morning,Christmas
+1196,31-12-2023,Jalebi,Fastfood,50,1,50,Cash,Male,Night,None
+1197,03-12-2023,Hot Chocolate,Beverage,40,2,80,Online,Female,Morning,None
+1198,26-12-2023,Hot Chocolate,Beverage,40,2,80,Online,Female,Morning,None
+1199,30-12-2023,Masala Chai,Beverage,25,1,25,Online,Male,Morning,None
+1200,05-12-2023,Hot Chocolate,Beverage,40,1,40,Cash,Male,Evening,None
