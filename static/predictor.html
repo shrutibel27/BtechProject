@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Customer Prediction</title>
+  <link rel="stylesheet" href="predictorcss.css">
+</head>
+<body>
+  <!-- Background Video -->
+  <video autoplay loop muted class="background-video">
+    <source src="./assets/secondbackground - Made with Clipchamp.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <!-- Navigation Bar -->
+  <header>
+    <nav>
+      <ul>
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./predictor.html">Predictor</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Customer Prediction Form -->
+  <div class="form-container">
+    <h1>Customer Prediction</h1>
+    <form id="predictionForm">
+      
+      <div class="form-group">
+        <label for="uploadCsv">Upload CSV File</label>
+        <input type="file" id="uploadCsv">
+      </div>
+
+      <div class="form-group">
+        <label for="date">Date</label>
+        <input type="date" id="date">
+      </div>
+
+      <div class="form-group">
+        <label for="category">Category</label>
+        <select id="category">
+          <option value="" disabled selected>Choose Category</option>
+          <option value="fastfood">Fastfood</option>
+          <option value="beverage">Beverage</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="foodItem">Food Item</label>
+        <select id="foodItem">
+          <option value="" disabled selected>Choose Food Item</option>
+        </select>
+      </div>
+
+      <button type="button" id="submitBtn">Submit</button>
+    </form>
+  </div>
+
+  <script src="predictorjs.js"></script>
+</body>
+</html>

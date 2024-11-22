@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Restaurant Rating Prediction Tool</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul class="navbar">
+        <li><a href="./index.html">HOME</a></li>
+        <li><a href="./predictor.html">PREDICTOR</a></li>
+        <li><a href="#about">ABOUT US</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section with Video Background -->
+  <section class="hero" id="home">
+    <!-- Video Background -->
+    <video autoplay muted loop id="bg-video">
+      <source src="./assets/background-video.mp4" type="video/mp4">
+      <!-- Fallback for browsers that don't support videos -->
+      <img src="./assets/fallback.jpg" alt="Background">
+    </video>
+
+    <!-- Content Overlay -->
+    <div class="content">
+      <h1>Smart Food Quantity Predictor: Plan Ahead, Serve Better!</h1>
+      <p>Optimize food preparation with precise demand forecasts to reduce waste and ensure customer satisfaction!</p>
+      <p>This model predicts the quantity of each food item needed for a specific date, helping you optimize food preparation and reduce wastage</p>
+      <a href="predictor.html">
+        <button>Let's Go</button>
+      </a>
+      
+    </div>
+  </section>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
