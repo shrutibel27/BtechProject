@@ -49,9 +49,27 @@ document.getElementById('category').addEventListener('change', function () {
 });
 
 // Submit button functionality
+// document.getElementById('submitBtn').addEventListener('click', function () {
+//   const records = document.getElementById('uploadRecords').files[0];
+//   const csvFile = document.getElementById('uploadCsv').files[0];
+//   const date = document.getElementById('date').value;
+//   const category = document.getElementById('category').value;
+//   const foodItem = document.getElementById('foodItem').value;
+
+//   if (!date || !category || !foodItem) {
+//     alert('Please fill out all fields.');
+//     return;
+//   }
+
+//   console.log('Records:', records);
+//   console.log('CSV File:', csvFile);
+//   console.log('Date:', date);
+//   console.log('Category:', category);
+//   console.log('Food Item:', foodItem);
+//   alert('Form submitted successfully!');
+// });
+
 document.getElementById('submitBtn').addEventListener('click', function () {
-  const records = document.getElementById('uploadRecords').files[0];
-  const csvFile = document.getElementById('uploadCsv').files[0];
   const date = document.getElementById('date').value;
   const category = document.getElementById('category').value;
   const foodItem = document.getElementById('foodItem').value;
@@ -61,10 +79,24 @@ document.getElementById('submitBtn').addEventListener('click', function () {
     return;
   }
 
-  console.log('Records:', records);
-  console.log('CSV File:', csvFile);
-  console.log('Date:', date);
-  console.log('Category:', category);
-  console.log('Food Item:', foodItem);
-  alert('Form submitted successfully!');
+  // Prepare data to send to the backend
+  const data = { date, category, foodItem };
+
+  // Send data to Flask backend
+  fetch('/predict', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data)
+  })
+    .then(response => response.json())
+    .then(result => {
+      if (result.error) {
+        alert(`Error: ${result.error}`);
+      } else {
+        const prediction = result.prediction;
+        alert(`Predicted Quantity: ${prediction}`);
+        // You can display the prediction on the page instead of an alert
+        document.getElementById('result').innerText = `Predicted Quantity: ${prediction}`;
+      }
+    })    .catch(error => console.error('Error:', error));
 });

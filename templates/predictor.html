@@ -4,12 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Customer Prediction</title>
-  <link rel="stylesheet" href="predictorcss.css">
+  <link rel="stylesheet" href="../static/predictorcss.css">
 </head>
 <body>
   <!-- Background Video -->
   <video autoplay loop muted class="background-video">
-    <source src="./assets/secondbackground.mp4" type="video/mp4">
+    <source src="../static/assets/secondbackground.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
@@ -17,7 +17,7 @@
   <header>
     <nav>
       <ul>
-        <li><a href="./index.html">Home</a></li>
+        <li><a href="../static/index.html">Home</a></li>
         <li><a href="./predictor.html">Predictor</a></li>
         <li><a href="#">About</a></li>
       </ul>
@@ -57,8 +57,11 @@
 
       <button type="button" id="submitBtn">Submit</button>
     </form>
+    <div id="result"></div> 
+    <!-- <div id="output" class="output-container">
+    </div> -->
   </div>
 
-  <script src="predictorjs.js"></script>
+  <script src="../static/predictorjs.js"></script>
 </body>
 </html>

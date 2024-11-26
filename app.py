@@ -1,40 +1,48 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 import pandas as pd
 import numpy as np
-from sklearn.pipeline import Pipeline
-from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.compose import ColumnTransformer
-import pickle
+import joblib  # For loading the trained model
 
-# Load pre-trained model (save your trained model as a pickle file)
-with open('model.pkl', 'rb') as file:
-    model = pickle.load(file)
-
+# Create Flask app
 app = Flask(__name__)
 
-# Route to handle prediction
+# Load pre-trained model
+model = joblib.load('model.pkl')  # Save your trained model as model.pkl
+
+@app.route('/')
+def home():
+    return render_template('predictor.html')  # Serve your HTML file
+
 @app.route('/predict', methods=['POST'])
 def predict():
-    data = request.json
-    date = data['date']
-    item_name = data['item_name']
+    try:
+        # Get data from the form
+        data = request.get_json()
+        date = data.get('date')
+        category = data.get('category')
+        food_item = data.get('foodItem')
 
-    # Extract features from the date
-    input_date = pd.to_datetime(date)
-    month = input_date.month
-    day_of_week = input_date.day_name()
+        # Preprocess the input data
+        # Add your preprocessing logic here
+        input_data = pd.DataFrame({
+            'Date': [date],
+            'Category': [category],
+            'Item_Name': [food_item]
+        })
 
-    # Prepare input data
-    input_data = pd.DataFrame({
-        'Item Name': [item_name],
-        'Month': [month],
-        'DayOfWeek': [day_of_week]
-    })
+        # Ensure the columns match the training data
+        # This is just an example. Modify according to your model's input
+        input_data['Day'] = pd.to_datetime(input_data['Date']).dt.day_name()
 
-    # Make prediction
-    prediction = model.predict(input_data)[0]
-    return jsonify({'predicted_quantity': prediction})
+        # Drop the 'Date' column as it might not be used for prediction
+        input_data.drop(columns=['Date'], inplace=True)
+
+        # Predict
+        prediction = model.predict(input_data)[0]  # Assuming the model outputs a single value
+
+        return jsonify({'prediction': prediction})
+    except Exception as e:
+        return jsonify({'error': str(e)})
 
 if __name__ == '__main__':
     app.run(debug=True)
