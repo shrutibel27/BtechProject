@@ -51,24 +51,39 @@ def predictor():
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    # data = request.json
-    data = request.get_json()
-    date = pd.to_datetime(data['date'])
-    month = date.month
-    day_of_week = date.day_name()
-    item_name = data['item']
-    category = data.get('category')
+  try:
+      # data = request.json
+      data = request.get_json()
+      # Check for missing inputs
+      if not data:
+          return jsonify({'error': 'No data received'}), 400
+      else:
+          print("Received input:", data)
+      date = pd.to_datetime(data['date'])
+      month = date.month
+      day_of_week = date.day_name()
+      item_name = data['item']
+    # category = data.get('category')
         # food_item = data.get('foodItem')
 
-    input_data = pd.DataFrame({
+      input_data = pd.DataFrame({
         'Item Name': [item_name],
         'Month': [month],
         'DayOfWeek': [day_of_week]
-    })
+      })
 
-    prediction = model.predict(input_data)[0]
-    return jsonify({'predicted_quantity': prediction})
-
+      prediction = model.predict(input_data)[0]
+      return jsonify({'predicted_quantity': prediction})
+  except Exception as e:
+        print(f"Error: {e}")  # Log error for debugging
+        return jsonify({'error': str(e)}), 500
+    
+@app.after_request
+def add_header(response):
+    response.headers['Cache-Control'] = 'no-store, no-cache, must-revalidate, max-age=0'
+    response.headers['Pragma'] = 'no-cache'
+    response.headers['Expires'] = '0'
+    return response
 
 if __name__ == '__main__':
     app.run(debug=True)
