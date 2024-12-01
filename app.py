@@ -55,10 +55,10 @@ def predict():
       # data = request.json
       data = request.get_json()
       # Check for missing inputs
-      if not data:
-          return jsonify({'error': 'No data received'}), 400
-      else:
-          print("Received input:", data)
+    #   if not data:
+    #       return jsonify({'error': 'No data received'}), 400
+    #   else:
+        #   print("Received input:", data)
       date = pd.to_datetime(data['date'])
       month = date.month
       day_of_week = date.day_name()
